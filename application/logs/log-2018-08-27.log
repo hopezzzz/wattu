@@ -1,0 +1,21 @@
+ERROR - 2018-08-27 10:23:13 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-27 10:23:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:23:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-27 10:24:34 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-27 10:26:43 --> Could not find the language line "insert_batch() called with no data"
+ERROR - 2018-08-27 10:27:35 --> Severity: Notice --> Undefined variable: vv /var/www/html/watervale/application/controllers/OrderController.php 903
+ERROR - 2018-08-27 10:27:39 --> Severity: Notice --> Undefined variable: vv /var/www/html/watervale/application/controllers/OrderController.php 903
+ERROR - 2018-08-27 10:27:45 --> Severity: Notice --> Undefined variable: vv /var/www/html/watervale/application/controllers/OrderController.php 903
+ERROR - 2018-08-27 10:27:49 --> Severity: Notice --> Undefined variable: vv /var/www/html/watervale/application/controllers/OrderController.php 903
+ERROR - 2018-08-27 10:28:15 --> Severity: Notice --> Undefined variable: vv /var/www/html/watervale/application/controllers/OrderController.php 903
+ERROR - 2018-08-27 10:34:32 --> Could not find the language line "insert_batch() called with no data"
+ERROR - 2018-08-27 10:43:28 --> Could not find the language line "insert_batch() called with no data"
+ERROR - 2018-08-27 10:55:54 --> 404 Page Not Found: Order-details/img

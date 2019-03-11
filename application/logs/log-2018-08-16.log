@@ -1,0 +1,207 @@
+ERROR - 2018-08-16 17:54:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:54:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:54:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:54:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:54:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 17:55:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-16 18:00:58 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-16 18:02:27 --> Some variable did not contain a value.
+ERROR - 2018-08-16 18:15:31 --> Some variable did not contain a value.
+ERROR - 2018-08-16 18:15:52 --> 
+{
+   "orderRef":"",
+   "userRef":"9Fb4y5fan34g5ab2YC",
+   "customerRef":"57KVbgPeEpoa0lGH",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"5lI7vpYeiVlqt2v1",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"kxjKcM5r1VrsKDzF",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"2",
+   "orderStatus":"pending",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[
+
+   ],
+   "orderItems":[
+      {
+         "itemName":"Dressing Table",
+         "itemRef":"IaWyx5Jk0WIOZLim",
+         "itemPrice":"25",
+         "qty":2,
+         "priceChanged":"",
+         "transportCost":"0",
+         "transportCostChanged":"",
+         "height":"33",
+         "width":"33",
+         "length":"33",
+		 "saleUOM":"asd",
+	     "saleConvQty":"asd",
+		 "saleConvLength":"",
+		 "baseUOM":"",
+		 "baseConvQty":"",
+		 "baseConvLength":"",
+		 "variants": [
+            {
+                "height": "1",
+                "width": "2",
+                "length": "1",
+                "color": "hhh",
+                "design": "kjkjuh",
+                "qty" : 1
+            },
+            {
+                "height": "30",
+                "width": "25",
+                "length": "22",
+                "color": "ff",
+                "design": "sss",
+                "qty" : 1
+            }
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-08-16 18:16:33 --> 
+{
+   "orderRef":"",
+   "userRef":"9Fb4y5fan34g5ab2YC",
+   "customerRef":"57KVbgPeEpoa0lGH",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"5lI7vpYeiVlqt2v1",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"kxjKcM5r1VrsKDzF",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"2",
+   "orderStatus":"pending",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[
+
+   ],
+   "orderItems":[
+      {
+         "itemName":"Dressing Table",
+         "itemRef":"IaWyx5Jk0WIOZLim",
+         "itemPrice":"25",
+         "qty":2,
+         "priceChanged":"",
+         "transportCost":"0",
+         "transportCostChanged":"",
+         "height":"33",
+         "width":"33",
+         "length":"33",
+		 "saleUOM":"asd",
+	     "saleConvQty":"asd",
+		 "saleConvLength":"",
+		 "baseUOM":"",
+		 "baseConvQty":"",
+		 "baseConvLength":"",
+		 "variants": [
+            {
+                "height": "1",
+                "width": "2",
+                "length": "1",
+                "color": "hhh",
+                "design": "kjkjuh",
+                "qty" : 1
+            },
+            {
+                "height": "30",
+                "width": "25",
+                "length": "22",
+                "color": "ff",
+                "design": "sss",
+                "qty" : 1
+            }
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-08-16 18:16:57 --> 
+{
+   "orderRef":"",
+   "userRef":"9Fb4y5fan34g5ab2YC",
+   "customerRef":"57KVbgPeEpoa0lGH",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"5lI7vpYeiVlqt2v1",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"kxjKcM5r1VrsKDzF",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"2",
+   "orderStatus":"pending",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[
+
+   ],
+   "orderItems":[
+      {
+         "itemName":"Dressing Table",
+         "itemRef":"IaWyx5Jk0WIOZLim",
+         "itemPrice":"25",
+         "qty":2,
+         "priceChanged":"",
+         "transportCost":"0",
+         "transportCostChanged":"",
+         "height":"33",
+         "width":"33",
+         "length":"33",
+		 "saleUOM":"asd",
+	     "saleConvQty":"asd",
+		 "saleConvLength":"",
+		 "baseUOM":"",
+		 "baseConvQty":"",
+		 "baseConvLength":"",
+		 "variants": [
+            {
+                "height": "1",
+                "width": "2",
+                "length": "1",
+                "color": "hhh",
+                "design": "kjkjuh",
+                "qty" : 1
+            },
+            {
+                "height": "30",
+                "width": "25",
+                "length": "22",
+                "color": "ff",
+                "design": "sss",
+                "qty" : 1
+            }
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-08-16 18:16:57 --> {"success":true,"success_message":"Order Submitted successfully Order No00017"}

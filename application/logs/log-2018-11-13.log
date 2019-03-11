@@ -1,0 +1,1356 @@
+ERROR - 2018-11-13 05:41:07 --> 404 Page Not Found: API/index
+ERROR - 2018-11-13 05:45:18 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-13 06:38:50 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 06:38:50 --> {"success":true,"success_message":"Order Submitted successfully Order No00007"}
+ERROR - 2018-11-13 06:39:37 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:39:58 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:42:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 06:46:19 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-11-13 06:46:51 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-13 06:46:55 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:07:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:08:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 07:09:14 --> 404 Page Not Found: Update-customer/img
+ERROR - 2018-11-13 07:32:39 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:33:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:34:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:35:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:36:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 07:39:57 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:26:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:37:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:52:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 08:54:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 09:20:29 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 1,
+        		"discount" : "10"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:20:29 --> {"success":true,"success_message":"Order Submitted successfully Order No00008"}
+ERROR - 2018-11-13 09:21:58 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 1,
+        		"discount" : "10"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:21:58 --> {"success":true,"success_message":"Order Submitted successfully Order No00009"}
+ERROR - 2018-11-13 09:22:46 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-13 09:24:59 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 1,
+        		"discount" : "10"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:26:26 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 1,
+        		"discount" : "10"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:26:46 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 1,
+        		"discount" : "10"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:27:01 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 1,
+        		"discount" : "100"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:27:13 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 1,
+        		"discount" : "25"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:27:33 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 2,
+        		"discount" : "25"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:27:45 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 2,
+        		"discount" : "230"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:28:04 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"240",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 2,
+        		"discount" : "230"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:32:20 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"240",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 2,
+        		"discount" : "230"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:32:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''00010', 'JjgDalfOlUQWpSeL', 'OdRNJrF4hdpbij8B', 'management', 'no remarks', 'Ip' at line 1 - Invalid query: INSERT INTO `ws_orderItemVariants` (`blockPercentage`, `blockType`, `color`, `design`, `discount`, `discountType`, `height`, `isCustomize`, `item_variant_id`, `length`, `minPrice`, `orderRef`, `price`, `productId`, `qty`, `transportCharge`, `width`) VALUES '00010', 'JjgDalfOlUQWpSeL', 'OdRNJrF4hdpbij8B', 'management', 'no remarks', 'IpL3oC5GPQCr72HZ', '2iCbflXYQAJNTl5D', '10', '200', '1', 'naman', '3', 'queued', '1', 1, '2018-11-13 09:32:20', '2018-11-13 09:32:20', 'Q5FO9i0JOkw1m4S3', 'test123', 'Naman', 'Mark1', '987654332', 'Amundsen-Scott - permanent station of the US', 'Coast', 'Kenya', '2018-11-13', 'XCItSL5gWiSRvgDy', 10, '10', 'PRO-TYG3-00035', 'Red', 'uqaxliRfyO7azQs4', '1', '0', '4gSmL0wloljqBtaY', '1', '0', '1', 2, (22,'Recon','Red','rr','230',2,'34',0,1829,'43','222','Q5FO9i0JOkw1m4S3',10,'PRO-TYG3-00035',1,'10','343')
+ERROR - 2018-11-13 09:33:06 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"240",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 2,
+        		"discount" : "230"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:33:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''00010', 'JjgDalfOlUQWpSeL', 'OdRNJrF4hdpbij8B', 'management', 'no remarks', 'Ip' at line 1 - Invalid query: INSERT INTO `ws_orderItemVariants` (`blockPercentage`, `blockType`, `color`, `design`, `discount`, `discountType`, `height`, `isCustomize`, `item_variant_id`, `length`, `minPrice`, `orderRef`, `price`, `productId`, `qty`, `transportCharge`, `width`) VALUES '00010', 'JjgDalfOlUQWpSeL', 'OdRNJrF4hdpbij8B', 'management', 'no remarks', 'IpL3oC5GPQCr72HZ', '2iCbflXYQAJNTl5D', '10', '200', '1', 'naman', '3', 'queued', '1', 1, '2018-11-13 09:33:06', '2018-11-13 09:33:06', 'ukO872aWDNkAR5bn', 'test123', 'Naman', 'Mark1', '987654332', 'Amundsen-Scott - permanent station of the US', 'Coast', 'Kenya', '2018-11-13', 'vbnKtisesUK2Xjfq', 10, '10', 'PRO-TYG3-00035', 'Red', 'uqaxliRfyO7azQs4', '1', '0', '4gSmL0wloljqBtaY', '1', '0', '1', 2, (22,'Recon','Red','rr','230',2,'34',0,1829,'43','222','ukO872aWDNkAR5bn',10,'PRO-TYG3-00035',1,'10','343')
+ERROR - 2018-11-13 09:33:13 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"OdRNJrF4hdpbij8B",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"240",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 2,
+        		"discount" : "230"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:33:13 --> {"success":true,"success_message":"Order Submitted successfully Order No00010"}
+ERROR - 2018-11-13 09:33:51 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"Xo5udQJS1ltbYBFh",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"240",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 2,
+        		"discount" : "230"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:33:51 --> {"success":true,"success_message":"Order Submitted successfully Order No00011"}
+ERROR - 2018-11-13 09:34:25 --> 
+{
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"Xo5udQJS1ltbYBFh",
+   "orderRemarks":"no remarks",
+   "deliveryMethodRef":"IpL3oC5GPQCr72HZ",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"2iCbflXYQAJNTl5D",
+   "dueDays":"10",
+   "dueAmount":"200",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "preAuthorization":"naman",
+   "approvalType":"management",
+   "newCustomer":[],
+   "orderItems":[
+      {
+         "itemName":"Red",
+         "itemRef":"PRO-TYG3-00035",
+         "qty":2,
+		 "saleUOM": "uqaxliRfyO7azQs4",
+         "saleConvQty": "1",
+         "saleConvLength": "0",
+         "baseUOM": "4gSmL0wloljqBtaY",
+         "baseConvQty": "1",
+         "baseConvLength": "0",
+		 "productionOnDemand" : "1",
+		 "variants": [
+            {
+            	"item_variant_id" : 1829,
+                "height": "34",
+                "width": "343",
+                "length": "43",
+                "color": "Red",
+                "design": "rr",
+                "qty" : 1 ,
+                "price"    : "232",
+                "minPrice"        : "222",
+                "priceChanged"    :"",
+                "blockPercentage" : 22 ,
+                "transportCost":"1",
+        		"transportCostChanged":"10",
+        		"blockType": "Recon",
+        		"discountType" : 1,
+        		"discount" : "10"
+        		
+            }
+            
+        ]
+         
+      }
+   ]
+}
+ERROR - 2018-11-13 09:34:25 --> {"success":true,"success_message":"Order Submitted successfully Order No00012"}
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:25:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 30
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:29:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 10:38:22 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-13 10:44:44 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-13 10:48:50 --> 404 Page Not Found: View-user/img
+ERROR - 2018-11-13 10:49:19 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-11-13 12:03:53 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-13 12:10:41 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:11:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 93
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:31 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:31 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:31 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:31 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:31 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:31 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:31 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:13:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:14:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/itemlistajax.php 34
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:49:44 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:51:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:52:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-13 12:55:04 --> 404 Page Not Found: Img/favicon.png

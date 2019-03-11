@@ -1,0 +1,79 @@
+ERROR - 2018-11-27 07:20:40 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 09:35:44 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-27 09:36:00 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-11-27 09:36:44 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 113
+ERROR - 2018-11-27 09:36:44 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-11-27 09:37:49 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 09:38:05 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 113
+ERROR - 2018-11-27 09:38:05 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-11-27 09:57:52 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 113
+ERROR - 2018-11-27 09:57:55 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 10:16:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:16:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:16:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:18:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:18:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:18:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:18:59 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 10:19:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:19:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:19:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:26:06 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 10:26:42 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 10:28:29 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 10:28:37 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale_live/application/views/orders/dispatch/index.php 50
+ERROR - 2018-11-27 10:30:24 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 10:31:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:31:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 10:31:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:06:58 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 11:22:03 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-27 11:25:08 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:25:08 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:25:08 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:43:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:43:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:43:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:44:26 --> {"orderRef":"","userRef":"ihJZ73LqqWFgz0Yt","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"0","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-8LSM-00001","qty":20,"saleUOM":"METER","saleConvQty":"1","saleConvLength":"0","baseUOM":"Rolls","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"1","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"11X22X23XWXSquare","length":"11","width":"22","height":"23","color":"W","design":"Square","qty":"20","price":"50.15","minPrice":"25.15","blockPercentage":"99.99","blockType":"Comfort","isCustomize":"0"}]}]}
+ERROR - 2018-11-27 11:44:26 --> {"success":true,"success_message":"Order 00006 Submitted successfully."}
+ERROR - 2018-11-27 11:45:10 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:45:10 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:45:10 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:57:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:57:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:57:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-27 11:57:29 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:00:26 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:00:35 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:01:09 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:02:06 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:02:33 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:03:51 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:04:14 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:12:18 --> Severity: error --> Exception: Call to undefined function getVariantsByOrderRef() /var/www/html/watervale_live/application/models/OrderModel.php 447
+ERROR - 2018-11-27 12:12:23 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:12:36 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:16:43 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 12:19:57 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 13:02:33 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-27 13:40:57 --> 404 Page Not Found: Img/favicon.png

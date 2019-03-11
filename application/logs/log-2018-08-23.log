@@ -1,0 +1,551 @@
+ERROR - 2018-08-23 16:53:29 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-23 16:53:37 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-08-23 16:53:49 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-23 16:53:56 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-08-23 16:57:45 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 16:57:45 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 16:57:45 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 16:57:45 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 16:57:45 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 171
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 171
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 172
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 172
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 172
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 173
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 173
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 173
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 174
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 174
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchedDate /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 174
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 175
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 175
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$invoiceNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 175
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 176
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 176
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$customerPhone /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 176
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 177
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 177
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$cityName /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 177
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 178
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 178
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$receivedStatus /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 179
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$returnStatus /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 180
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$errorStatus /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 181
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchNo /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 184
+ERROR - 2018-08-23 17:07:53 --> Severity: Notice --> Undefined property: stdClass::$dispatchtems /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 192
+ERROR - 2018-08-23 17:07:53 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 192
+ERROR - 2018-08-23 17:16:35 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-23 17:23:38 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-23 17:23:41 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10, 10' at line 10 - Invalid query: SELECT `orderStatus`, `ws_dispatched_orders`.*, `businessName`, `customerName`, `customerPhone`, `city` as `cityName`, `state`, `ws_dispatched_orders`.`addedOn` as `dispatchedDate`
+FROM `ws_dispatched_orders`
+JOIN `ws_orders` ON `ws_orders`.`orderRef` = `ws_dispatched_orders`.`orderRef`
+INNER JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `isModifyState` = 2
+AND `orderStatus` != "cancelled"
+AND `orderStatus` != "Closed"
+GROUP BY `dispatchNo`
+ORDER BY `dispatchNo` DESC
+ LIMIT -10, 10
+ERROR - 2018-08-23 17:23:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10, 10' at line 10 - Invalid query: SELECT `orderStatus`, `ws_dispatched_orders`.*, `businessName`, `customerName`, `customerPhone`, `city` as `cityName`, `state`, `ws_dispatched_orders`.`addedOn` as `dispatchedDate`
+FROM `ws_dispatched_orders`
+JOIN `ws_orders` ON `ws_orders`.`orderRef` = `ws_dispatched_orders`.`orderRef`
+INNER JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `isModifyState` = 2
+AND `orderStatus` != "cancelled"
+AND `orderStatus` != "Closed"
+GROUP BY `dispatchNo`
+ORDER BY `dispatchNo` DESC
+ LIMIT -10, 10
+ERROR - 2018-08-23 17:25:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10, 20' at line 10 - Invalid query: SELECT `orderStatus`, `ws_dispatched_orders`.*, `businessName`, `customerName`, `customerPhone`, `city` as `cityName`, `state`, `ws_dispatched_orders`.`addedOn` as `dispatchedDate`
+FROM `ws_dispatched_orders`
+JOIN `ws_orders` ON `ws_orders`.`orderRef` = `ws_dispatched_orders`.`orderRef`
+INNER JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `isModifyState` = 2
+AND `orderStatus` != "cancelled"
+AND `orderStatus` != "Closed"
+GROUP BY `dispatchNo`
+ORDER BY `dispatchNo` DESC
+ LIMIT -10, 20
+ERROR - 2018-08-23 17:25:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-20, 20' at line 10 - Invalid query: SELECT `orderStatus`, `ws_dispatched_orders`.*, `businessName`, `customerName`, `customerPhone`, `city` as `cityName`, `state`, `ws_dispatched_orders`.`addedOn` as `dispatchedDate`
+FROM `ws_dispatched_orders`
+JOIN `ws_orders` ON `ws_orders`.`orderRef` = `ws_dispatched_orders`.`orderRef`
+INNER JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `isModifyState` = 2
+AND `orderStatus` != "cancelled"
+AND `orderStatus` != "Closed"
+GROUP BY `dispatchNo`
+ORDER BY `dispatchNo` DESC
+ LIMIT -20, 20
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:26:06 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 176
+ERROR - 2018-08-23 17:27:19 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:19 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:19 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:19 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:19 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:19 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:19 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:20 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:20 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:20 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:27:20 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 176
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:28:01 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 176
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:29:08 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 176
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 59
+ERROR - 2018-08-23 17:30:50 --> Severity: Warning --> A non-numeric value encountered /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 176
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:42:33 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:44:20 --> Severity: Notice --> Undefined variable: orderItemsEstDate /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:09 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:15 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:45:17 --> Severity: Notice --> Undefined variable: orderItemsRefIds /var/www/html/watervale/application/views/orders/production/index.php 130
+ERROR - 2018-08-23 17:46:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-23 18:08:06 --> Query error: Table 'watervaleDB1.ws_FOUND_ROWS' doesn't exist - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM (`ws_FOUND_ROWS` as `rows`, `ws_orders`)
+LEFT JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `orderPipline` = 3
+AND `orderInProduction` = 1
+ERROR - 2018-08-23 18:08:19 --> Query error: Unknown column 'FOUND_ROWS' in 'field list' - Invalid query: SELECT `FOUND_ROWS` as `rows`, `ws_orders`.`id`, `ws_orders`.`orderNo`, `ws_orders`.`orderRef`, `orderInProduction`, `orderStatus`, (select count(ws_orderItems.id) from ws_orderItems where ws_orderItems.orderRef = ws_orders.orderRef ) as orderQty, `customerName` as `fullname`, `city` as `cityName`, `businessName`
+FROM `ws_orders`
+LEFT JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `orderPipline` = 3
+AND `orderInProduction` = 1
+ORDER BY `priorityNo` ASC
+ LIMIT 10
+ERROR - 2018-08-23 18:08:20 --> Query error: Unknown column 'FOUND_ROWS' in 'field list' - Invalid query: SELECT `FOUND_ROWS` as `rows`, `ws_orders`.`id`, `ws_orders`.`orderNo`, `ws_orders`.`orderRef`, `orderInProduction`, `orderStatus`, (select count(ws_orderItems.id) from ws_orderItems where ws_orderItems.orderRef = ws_orders.orderRef ) as orderQty, `customerName` as `fullname`, `city` as `cityName`, `businessName`
+FROM `ws_orders`
+LEFT JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `orderPipline` = 3
+AND `orderInProduction` = 1
+ORDER BY `priorityNo` ASC
+ LIMIT 10
+ERROR - 2018-08-23 18:08:48 --> Query error: Unknown column 'SQL_CALC_FOUND_ROWS null' in 'field list' - Invalid query: SELECT `SQL_CALC_FOUND_ROWS null` as `rows`, `ws_orders`.`id`, `ws_orders`.`orderNo`, `ws_orders`.`orderRef`, `orderInProduction`, `orderStatus`, (select count(ws_orderItems.id) from ws_orderItems where ws_orderItems.orderRef = ws_orders.orderRef ) as orderQty, `customerName` as `fullname`, `city` as `cityName`, `businessName`
+FROM `ws_orders`
+LEFT JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `orderPipline` = 3
+AND `orderInProduction` = 1
+ORDER BY `priorityNo` ASC
+ LIMIT 10
+ERROR - 2018-08-23 18:10:55 --> Severity: Notice --> Undefined variable: total_rows /var/www/html/watervale/application/views/orders/production/index.php 10
+ERROR - 2018-08-23 18:11:16 --> Severity: Notice --> Undefined variable: total_rows /var/www/html/watervale/application/views/orders/production/index.php 10
+ERROR - 2018-08-23 18:11:19 --> Severity: Notice --> Undefined variable: total_rows /var/www/html/watervale/application/views/orders/production/index.php 10
+ERROR - 2018-08-23 18:11:19 --> Severity: Notice --> Undefined variable: total_rows /var/www/html/watervale/application/views/orders/production/index.php 10
+ERROR - 2018-08-23 18:11:20 --> Severity: Notice --> Undefined variable: total_rows /var/www/html/watervale/application/views/orders/production/index.php 10
+ERROR - 2018-08-23 18:13:04 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-08-23 18:15:32 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-08-23 18:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:19:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:20:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:20:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:20:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:20:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:20:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:22:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:22:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:22:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:22:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:22:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:40:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:40:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:40:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:40:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:40:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:42:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:42:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:42:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:42:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:42:03 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-23 18:42:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-08-23 18:42:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30

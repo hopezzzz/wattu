@@ -1,0 +1,8 @@
+ERROR - 2018-10-09 00:33:41 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-09 02:36:53 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-09 03:13:45 --> Severity: Warning --> Division by zero /home/onewayit/public_html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-10-09 03:13:58 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-09 03:14:34 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-09 03:26:45 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-09 06:45:10 --> Severity: Warning --> Division by zero /home/onewayit/public_html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-10-09 06:47:07 --> 404 Page Not Found: Img/favicon.png

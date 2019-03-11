@@ -1,0 +1,676 @@
+ERROR - 2018-11-26 04:24:03 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 04:34:14 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"2",
+   "orderStatus":"MAN",
+   "orderInProduction":"0",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"80.25",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Sofa Fabric",
+         "itemRef":"PRO-9RHD-00004",
+         "qty":5,
+         "saleUOM":"SsaleUoM",
+         "saleConvQty":"1",
+         "saleConvLength":"0",
+         "baseUOM":"SUoM",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"0",
+         "transportCost":"",
+         "transportCostChanged":"50",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X12X13XwXSqaure",
+               "length":"11",
+               "width":"12",
+               "height":"13",
+               "color":"w",
+               "design":"Sqaure",
+               "qty":"2",
+               "price":"100.5",
+               "minPrice":"50",
+               "blockPercentage":"56.76",
+               "blockType":"TBlock Type",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"21X22X23XwXSqaure",
+               "length":"21",
+               "width":"22",
+               "height":"23",
+               "color":"w",
+               "design":"Sqaure",
+               "qty":"3",
+               "price":"200.5",
+               "minPrice":"50",
+               "blockPercentage":"56.76",
+               "blockType":"TBlock Type",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+ERROR - 2018-11-26 04:34:14 --> {"success":true,"success_message":"Order 00008 Submitted successfully."}
+ERROR - 2018-11-26 04:36:15 --> {  
+    "orderRef":"",
+    "userRef":"XUe7oDvLiJlGTFqu",
+    "customerRef":"dXMJ1FSHdfYwMI5Z",
+    "orderRemarks":"",
+    "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+    "newDeliveryMethod":"",
+    "newAreaCode":"",
+    "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+    "dueDays":"",
+    "dueAmount":"",
+    "orderPipline":"2",
+    "orderStatus":"MAN",
+    "orderInProduction":"0",
+    "managerApprove":"1",
+    "approvalType":"management",
+    "preAuthorization":"",
+    "orderDiscount":"0",
+    "newCustomer":[  
+
+    ],
+    "orderItems":[  
+        {  
+            "itemName":"Sofa Fabric",
+            "itemRef":"PRO-F4BJ-00001",
+            "qty":15,
+            "saleUOM":"SUoM",
+            "saleConvQty":"1",
+            "saleConvLength":"0",
+            "baseUOM":"TUoM",
+            "baseConvQty":"1",
+            "baseConvLength":"0",
+            "productionOnDemand":"0",
+            "transportCost":"0",
+            "transportCostChanged":"",
+            "discountType":"1",
+            "discount":"",
+            "variants":[  
+                {  
+                    "item_variant_id":"11X12X13XWXSquare",
+                    "length":"11",
+                    "width":"12",
+                    "height":"13",
+                    "color":"W",
+                    "design":"Square",
+                    "qty":"5",
+                    "price":"2",
+                    "minPrice":"150.00",
+                    "blockPercentage":"50.99",
+                    "blockType":"SblockT",
+                    "isCustomize":"0"
+                },
+                {  
+                    "item_variant_id":"11X12X13XZXSquare",
+                    "length":"11",
+                    "width":"12",
+                    "height":"13",
+                    "color":"Z",
+                    "design":"Square",
+                    "qty":"10",
+                    "price":"5",
+                    "minPrice":"150.00",
+                    "blockPercentage":"50.99",
+                    "blockType":"SblockT",
+                    "isCustomize":"0"
+                }
+            ]
+        }
+    ]
+}
+ERROR - 2018-11-26 04:36:15 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 297
+ERROR - 2018-11-26 04:36:15 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 297
+ERROR - 2018-11-26 04:36:15 --> {"success":true,"success_message":"Order 00009 Submitted successfully."}
+ERROR - 2018-11-26 04:38:13 --> {  
+    "orderRef":"",
+    "userRef":"XUe7oDvLiJlGTFqu",
+    "customerRef":"dXMJ1FSHdfYwMI5Z",
+    "orderRemarks":"",
+    "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+    "newDeliveryMethod":"",
+    "newAreaCode":"",
+    "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+    "dueDays":"",
+    "dueAmount":"",
+    "orderPipline":"2",
+    "orderStatus":"MAN",
+    "orderInProduction":"0",
+    "managerApprove":"1",
+    "approvalType":"management",
+    "preAuthorization":"",
+    "orderDiscount":"0",
+    "newCustomer":[  
+
+    ],
+    "orderItems":[  
+        {  
+            "itemName":"Sofa Fabric",
+            "itemRef":"PRO-F4BJ-00001",
+            "qty":15,
+            "saleUOM":"SUoM",
+            "saleConvQty":"1",
+            "saleConvLength":"0",
+            "baseUOM":"TUoM",
+            "baseConvQty":"1",
+            "baseConvLength":"0",
+            "productionOnDemand":"0",
+            "transportCost":"0",
+            "transportCostChanged":"",
+            "discountType":"1",
+            "discount":"0",
+            "variants":[  
+                {  
+                    "item_variant_id":"11X12X13XWXSquare",
+                    "length":"11",
+                    "width":"12",
+                    "height":"13",
+                    "color":"W",
+                    "design":"Square",
+                    "qty":"5",
+                    "price":"2",
+                    "minPrice":"150.00",
+                    "blockPercentage":"50.99",
+                    "blockType":"SblockT",
+                    "isCustomize":"0"
+                },
+                {  
+                    "item_variant_id":"11X12X13XZXSquare",
+                    "length":"11",
+                    "width":"12",
+                    "height":"13",
+                    "color":"Z",
+                    "design":"Square",
+                    "qty":"10",
+                    "price":"5",
+                    "minPrice":"150.00",
+                    "blockPercentage":"50.99",
+                    "blockType":"SblockT",
+                    "isCustomize":"0"
+                }
+            ]
+        }
+    ]
+}
+ERROR - 2018-11-26 04:38:13 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 297
+ERROR - 2018-11-26 04:38:13 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 297
+ERROR - 2018-11-26 04:38:13 --> {"success":true,"success_message":"Order 00010 Submitted successfully."}
+ERROR - 2018-11-26 04:44:26 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"2",
+   "orderStatus":"MAN",
+   "orderInProduction":"0",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"80.25",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Sofa Fabric",
+         "itemRef":"PRO-9RHD-00004",
+         "qty":5,
+         "saleUOM":"SsaleUoM",
+         "saleConvQty":"1",
+         "saleConvLength":"0",
+         "baseUOM":"SUoM",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"0",
+         "transportCost":"",
+         "transportCostChanged":"50",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X12X13XwXSqaure",
+               "length":"11",
+               "width":"12",
+               "height":"13",
+               "color":"w",
+               "design":"Sqaure",
+               "qty":"2",
+               "price":"100.5",
+               "minPrice":"50",
+               "blockPercentage":"56.76",
+               "blockType":"TBlock Type",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"21X22X23XwXSqaure",
+               "length":"21",
+               "width":"22",
+               "height":"23",
+               "color":"w",
+               "design":"Sqaure",
+               "qty":"3",
+               "price":"200.5",
+               "minPrice":"50",
+               "blockPercentage":"56.76",
+               "blockType":"TBlock Type",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+ERROR - 2018-11-26 04:44:26 --> {"success":true,"success_message":"Order 00011 Submitted successfully."}
+ERROR - 2018-11-26 04:45:00 --> {  
+    "orderRef":"",
+    "userRef":"XUe7oDvLiJlGTFqu",
+    "customerRef":"dXMJ1FSHdfYwMI5Z",
+    "orderRemarks":"",
+    "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+    "newDeliveryMethod":"",
+    "newAreaCode":"",
+    "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+    "dueDays":"",
+    "dueAmount":"",
+    "orderPipline":"2",
+    "orderStatus":"MAN",
+    "orderInProduction":"0",
+    "managerApprove":"1",
+    "approvalType":"management",
+    "preAuthorization":"",
+    "orderDiscount":"0",
+    "newCustomer":[  
+
+    ],
+    "orderItems":[  
+        {  
+            "itemName":"Sofa Fabric",
+            "itemRef":"PRO-F4BJ-00001",
+            "qty":15,
+            "saleUOM":"SUoM",
+            "saleConvQty":"1",
+            "saleConvLength":"0",
+            "baseUOM":"TUoM",
+            "baseConvQty":"1",
+            "baseConvLength":"0",
+            "productionOnDemand":"0",
+            "transportCost":"0",
+            "transportCostChanged":"",
+            "discountType":"1",
+            "discount":"0",
+            "variants":[  
+                {  
+                    "item_variant_id":"11X12X13XWXSquare",
+                    "length":"11",
+                    "width":"12",
+                    "height":"13",
+                    "color":"W",
+                    "design":"Square",
+                    "qty":"5",
+                    "price":"2",
+                    "minPrice":"150.00",
+                    "blockPercentage":"50.99",
+                    "blockType":"SblockT",
+                    "isCustomize":"0"
+                },
+                {  
+                    "item_variant_id":"11X12X13XZXSquare",
+                    "length":"11",
+                    "width":"12",
+                    "height":"13",
+                    "color":"Z",
+                    "design":"Square",
+                    "qty":"10",
+                    "price":"5",
+                    "minPrice":"150.00",
+                    "blockPercentage":"50.99",
+                    "blockType":"SblockT",
+                    "isCustomize":"0"
+                }
+            ]
+        }
+    ]
+}
+ERROR - 2018-11-26 04:45:00 --> {"success":true,"success_message":"Order 00012 Submitted successfully."}
+ERROR - 2018-11-26 05:24:38 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 05:25:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 05:59:59 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:00:21 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:00:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:00:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:00:46 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:01:17 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:01:25 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:02:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:02:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:02:17 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:02:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:02:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:03:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:03:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:04:03 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:04:05 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:04:25 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:04:49 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:06:28 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:07:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:08:00 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:11:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:11:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:11:55 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:12:10 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:12:10 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:12:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 06:12:14 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:12:28 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:12:31 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:12:34 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:12:38 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:13:40 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:13:40 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:13:40 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:14:48 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:15:34 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:16:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:16:57 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:17:10 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:18:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:18:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:18:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:18:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:19:03 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 06:19:06 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:19:15 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:19:28 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:20:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:20:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:20:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:20:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:20:20 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 06:20:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:20:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:20:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:20:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:20:23 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 06:20:55 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 162
+ERROR - 2018-11-26 06:21:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:21:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:21:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:21:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:22:01 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 06:22:02 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 107
+ERROR - 2018-11-26 06:22:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:22:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:22:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:22:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:22:34 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 06:22:35 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:22:45 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:24:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:24:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:24:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:24:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:24:48 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:25:29 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:26:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:26:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:27:00 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:27:27 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:27:37 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:27:46 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:28:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:28:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:29:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:29:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:29:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:29:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:29:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:30:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:30:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:30:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:30:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:30:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:30:43 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:31:21 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:35:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:35:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:36:06 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:37:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:37:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:37:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:37:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:37:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:37:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:37:18 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:38:42 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:42 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:42 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:42 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:42 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:42 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 06:38:52 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 06:53:35 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 06:58:53 --> Severity: Warning --> number_format() expects parameter 1 to be float, string given /var/www/html/watervale_live/application/views/items/updateItem.php 164
+ERROR - 2018-11-26 07:14:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 07:14:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 07:14:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 07:14:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 07:14:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 07:14:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 07:14:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 09:05:11 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 09:05:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 09:05:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 09:05:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 09:05:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 09:05:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 09:05:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 09:33:45 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 09:33:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 09:52:32 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 09:56:00 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"1","approvalType":"management","preAuthorization":"","orderDiscount":"45.54","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-8LSM-00001","qty":9,"saleUOM":"METER","saleConvQty":"1","saleConvLength":"0","baseUOM":"ROLL","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"1","transportCost":"","transportCostChanged":"50","discountType":"1","discount":"10","variants":[{"item_variant_id":"","length":"11","width":"22","height":"23","color":"W","design":"Square","qty":"9","price":"50.60","minPrice":"25.15","blockPercentage":"99.99","blockType":"Comfort","isCustomize":"0"}]}]}
+ERROR - 2018-11-26 09:56:00 --> {"success":true,"success_message":"Order 00001 Submitted successfully."}
+ERROR - 2018-11-26 10:08:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 10:25:23 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-26 10:25:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 10:50:43 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"0","newCustomer":[],"orderItems":[{"itemName":"Velvet Fabric","itemRef":"PRO-XT8B-00003","qty":6,"saleUOM":"METER","saleConvQty":"1","saleConvLength":"0","baseUOM":"ROLL","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"0","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"","length":"0","width":"0","height":"0","color":"Red","design":"Circles","qty":"5","price":"100.00","minPrice":"85.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"","length":"0","width":"0","height":"0","color":"Brown","design":"Dots","qty":"1","price":"100.00","minPrice":"85.00","blockPercentage":"0","isCustomize":"0"}]},{"itemName":"Comfort Foam","itemRef":"PRO-O04G-00002","qty":200,"saleUOM":"PC","saleConvQty":"1","saleConvLength":"0","baseUOM":"PC","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"1","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"","length":"20","width":"20","height":"4","color":"NA","design":"NA","qty":"100","price":"100.00","minPrice":"99.00","blockPercentage":"1.00","blockType":"Comfort","isCustomize":"0"},{"item_variant_id":"","length":"20","width":"20","height":"6","color":"NA","design":"NA","qty":"100","price":"200.00","minPrice":"99.00","blockPercentage":"1.50","blockType":"Comfort","isCustomize":"0"}]}]}
+ERROR - 2018-11-26 10:50:43 --> {"success":true,"success_message":"Order 00002 Submitted successfully."}
+ERROR - 2018-11-26 10:51:11 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-26 10:52:17 --> Severity: Notice --> Array to string conversion /var/www/html/watervale_live/application/views/items/index.php 81
+ERROR - 2018-11-26 10:52:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 10:52:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 10:52:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 10:52:20 --> Severity: Notice --> Array to string conversion /var/www/html/watervale_live/application/views/items/index.php 81
+ERROR - 2018-11-26 10:52:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 10:52:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 10:52:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 11:18:09 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"0","newCustomer":[],"orderItems":[{"itemName":"Comfort Foam","itemRef":"PRO-O04G-00002","qty":200,"saleUOM":"PC","saleConvQty":"1","saleConvLength":"0","baseUOM":"PC","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"1","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"","length":"20","width":"20","height":"4","color":"NA","design":"NA","qty":"100","price":"100.00","minPrice":"99.00","blockPercentage":"1.00","blockType":"Comfort","isCustomize":"0"},{"item_variant_id":"","length":"20","width":"20","height":"6","color":"NA","design":"NA","qty":"100","price":"200.00","minPrice":"99.00","blockPercentage":"1.50","blockType":"Comfort","isCustomize":"0"}]},{"itemName":"Velvet Fabric","itemRef":"PRO-XT8B-00003","qty":6,"saleUOM":"ROLL","saleConvQty":"1","saleConvLength":"50","baseUOM":"METER","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"0","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"0X0X0XRedXCircles","length":"0","width":"0","height":"0","color":"Red","design":"Circles","qty":"5","price":"100.00","minPrice":"85.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XRedXDots","length":"0","width":"0","height":"0","color":"Red","design":"Dots","qty":"1","price":"100.00","minPrice":"85.00","blockPercentage":"0","isCustomize":"0"}]}]}
+ERROR - 2018-11-26 11:18:09 --> {"success":true,"success_message":"Order 00003 Submitted successfully."}
+ERROR - 2018-11-26 11:27:17 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 113
+ERROR - 2018-11-26 11:28:55 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 113
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:30:10 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-11-26 11:31:01 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-11-26 11:31:01 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-11-26 11:31:17 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-11-26 11:31:17 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 11:31:20 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-11-26 11:32:16 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-11-26 11:32:16 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-11-26 11:35:38 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"1","approvalType":"management","preAuthorization":"","orderDiscount":"450.0","newCustomer":[],"orderItems":[{"itemName":"Comfort Foam","itemRef":"PRO-O04G-00002","qty":1,"saleUOM":"PC","saleConvQty":"1","saleConvLength":"0","baseUOM":"PC","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"1","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"","length":"20","width":"20","height":"4","color":"NA","design":"NA","qty":"1","price":"50","minPrice":"99.00","blockPercentage":"1.00","blockType":"Comfort","isCustomize":"0"}]},{"itemName":"Velvet Fabric","itemRef":"PRO-XT8B-00003","qty":5,"saleUOM":"ROLL","saleConvQty":"1","saleConvLength":"50","baseUOM":"METER","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"0","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"90","variants":[{"item_variant_id":"0X0X0XRedXCircles","length":"0","width":"0","height":"0","color":"Red","design":"Circles","qty":"5","price":"100.00","minPrice":"85.00","blockPercentage":"0","isCustomize":"0"}]}]}
+ERROR - 2018-11-26 11:35:38 --> {"success":true,"success_message":"Order 00004 Submitted successfully."}
+ERROR - 2018-11-26 11:39:34 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"5000.0","newCustomer":[],"orderItems":[{"itemName":"Comfort Foam","itemRef":"PRO-O04G-00002","qty":100,"saleUOM":"PC","saleConvQty":"1","saleConvLength":"0","baseUOM":"PC","baseConvQty":"1","baseConvLength":"50","productionOnDemand":"1","transportCost":"5","transportCostChanged":"","discountType":"1","discount":"50","variants":[{"item_variant_id":"","length":"20","width":"20","height":"4","color":"NA","design":"NA","qty":"100","price":"100.00","minPrice":"99.00","blockPercentage":"1.00","blockType":"Comfort","isCustomize":"0"}]}]}
+ERROR - 2018-11-26 11:39:34 --> {"success":true,"success_message":"Order 00005 Submitted successfully."}
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-11-26 12:59:18 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-11-26 13:03:00 --> Severity: Notice --> Array to string conversion /var/www/html/watervale_live/application/views/items/index.php 81
+ERROR - 2018-11-26 13:03:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 13:03:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-26 13:03:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94

@@ -1,0 +1,21 @@
+ERROR - 2018-10-08 00:30:29 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-08 01:23:08 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-08 01:59:57 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-08 02:53:04 --> 404 Page Not Found: Update-customer/img
+ERROR - 2018-10-08 03:00:08 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-08 03:05:54 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-08 03:08:10 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-08 03:09:14 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-08 03:12:26 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-08 03:12:56 --> 404 Page Not Found: View-customer/img
+ERROR - 2018-10-08 03:16:52 --> 404 Page Not Found: Update-customer/img
+ERROR - 2018-10-08 03:21:42 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-08 03:22:14 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-08 03:24:14 --> 404 Page Not Found: View-user/img
+ERROR - 2018-10-08 03:39:38 --> 404 Page Not Found: Update-customer/img
+ERROR - 2018-10-08 03:44:11 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-08 03:54:27 --> 404 Page Not Found: View-customer/img
+ERROR - 2018-10-08 04:52:36 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-08 05:50:47 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-10-08 06:09:26 --> {"orderRef":"","userRef":"4bSrgNIFlnr2MjH4","customerRef":"8o0Rr4WtDBHc2hig","orderRemarks":"","deliveryMethodRef":"TNd8hjtQ7bhCJLXx","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"2iCbflXYQAJNTl5D","dueDays":"","dueAmount":"","orderPipline":"2","orderStatus":"pending","orderInProduction":"0","managerApprove":"0","approvalType":" ","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"Infant Bed","itemRef":"PRO-VLTS-00004","itemPrice":"67","qty":16,"priceChanged":"","transportCost":"0","transportCostChanged":"","height":"","width":"","length":"","saleUOM":"kgs","saleConvQty":"1","saleConvLength":"0","baseUOM":"meters","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","variants":[{"color":"blue","design":"rectangle","length":"4","width":"5","height":"6","qty":"1","isCustomize":"0"},{"color":"blue","design":"square","length":"4","width":"5","height":"6","qty":"2","isCustomize":"0"},{"color":"red","design":"rectangle","length":"4","width":"5","height":"6","qty":"3","isCustomize":"0"},{"color":"red","design":"square","length":"4","width":"5","height":"6","qty":"1","isCustomize":"0"},{"color":"blue","design":"rectangle","length":"5","width":"6","height":"7","qty":"5","isCustomize":"0"},{"color":"blue","design":"square","length":"5","width":"6","height":"7","qty":"3","isCustomize":"0"},{"color":"red","design":"rectangle","length":"5","width":"6","height":"7","qty":"1","isCustomize":"0"}]}]}
+ERROR - 2018-10-08 06:09:26 --> {"success":true,"success_message":"Order Submitted successfully Order No00015"}

@@ -1,0 +1,69 @@
+ERROR - 2018-12-14 04:30:38 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 05:43:26 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 05:44:50 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 05:49:18 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 05:54:22 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 05:56:48 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 05:57:19 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 05:57:40 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 05:59:27 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 05:59:51 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 06:10:14 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"XtdqLBFcSXbFlBsy","dueDays":"","dueAmount":"","orderPipline":"2","orderStatus":"pending","orderInProduction":"0","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"0","newCustomer":[],"orderItems":[{"itemName":"Burnout Velvet","itemRef":"PRO-QY0Z-00003","qty":15,"saleUOM":"Roll","saleConvQty":"1","saleConvLength":"50","baseUOM":"Meter","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"0X0X0XBlueXCircles","length":"0","width":"0","height":"0","color":"Blue","design":"Circles","qty":"1","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XBlueXSquares","length":"0","width":"0","height":"0","color":"Blue","design":"Squares","qty":"2","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XRedXCircles","length":"0","width":"0","height":"0","color":"Red","design":"Circles","qty":"3","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XRedXSquares","length":"0","width":"0","height":"0","color":"Red","design":"Squares","qty":"4","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XBlackXSquares","length":"0","width":"0","height":"0","color":"Black","design":"Squares","qty":"5","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"}]}]}
+ERROR - 2018-12-14 06:10:14 --> {"success":true,"success_message":"Order 00004 Submitted successfully."}
+ERROR - 2018-12-14 06:20:27 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 06:24:13 --> Severity: error --> Exception: syntax error, unexpected end of file /var/www/html/watervale_live/application/controllers/OrderController.php 994
+ERROR - 2018-12-14 06:45:35 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-14 06:54:31 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 07:01:25 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 07:08:07 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 07:09:01 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 07:09:07 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 07:09:24 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 07:11:20 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 07:37:50 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:40:52 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:41:30 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:46:11 --> Query error: Unknown column 'ws_products.blockType' in 'where clause' - Invalid query: SELECT `ws_dispatched_Items`.*, (select color from ws_products where ws_dispatched_Items.itemRefId = productRef limit 0, 1 ) as color, (select design from ws_products where ws_dispatched_Items.itemRefId = productRef limit 0, 1 ) as design, (select blockType from ws_blockTypes where ws_blockTypes.id = ws_products.blockType LIMIT 0, 1 ) as blockType, `ws_dispatched_orders`.`sheetRef`, `itemReason`, (select saleUOM from ws_orderItems where ws_orderItems.orderRef = orderRefId and ws_orderItems.itemRefId = ws_dispatched_Items.itemRefId limit 0, 1) as saleUOM, (select baseUOM from ws_orderItems where ws_orderItems.orderRef = orderRefId and ws_orderItems.itemRefId = ws_dispatched_Items.itemRefId limit 0, 1) as baseUOM, (select saleConvLength from ws_orderItems where ws_orderItems.orderRef = orderRefId and ws_orderItems.itemRefId = ws_dispatched_Items.itemRefId limit 0, 1) as saleConvLength, (select uomType from ws_orderItems where ws_orderItems.orderRef = orderRefId and ws_orderItems.itemRefId = ws_dispatched_Items.itemRefId limit 0, 1) as uomType, (select qty from ws_orderItems where ws_orderItems.orderRef = orderRefId and ws_orderItems.itemRefId = ws_dispatched_Items.itemRefId limit 0, 1) as orderQty
+FROM `ws_dispatched_orders`
+INNER JOIN `ws_dispatched_Items` ON `ws_dispatched_Items`.`dispatchRef` = `ws_dispatched_orders`.`dispatchNo`
+WHERE `ws_dispatched_Items`.`orderRefId` = 'GNpxJaqdxNMaEgAW'
+AND `ws_dispatched_orders`.`sheetRef` = 'iX8gxPqpjlw6arck'
+AND `ws_dispatched_orders`.`isModifyState` = 2
+AND `ws_dispatched_orders`.`dispatchNo` = '00004-03'
+GROUP BY `ws_dispatched_Items`.`variant_id`
+ERROR - 2018-12-14 07:46:11 --> Severity: error --> Exception: Call to a member function num_rows() on boolean /var/www/html/watervale_live/application/models/OrderModel.php 863
+ERROR - 2018-12-14 07:46:27 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:50:25 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:52:58 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:53:36 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:55:49 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 07:55:54 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:56:39 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 07:57:37 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 08:00:06 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 08:00:55 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 08:01:24 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 08:03:38 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 08:03:58 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 08:46:31 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 08:47:25 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"hhhhh","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"XtdqLBFcSXbFlBsy","dueDays":"","dueAmount":"","orderPipline":"2","orderStatus":"pending","orderInProduction":"0","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"0","newCustomer":[],"orderItems":[{"itemName":"Burnout Velvet","itemRef":"PRO-QY0Z-00003","qty":4,"saleUOM":"Roll","saleConvQty":"1","saleConvLength":"50","baseUOM":"Meter","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"0X0X0XBlueXCircles","length":"0","width":"0","height":"0","color":"Blue","design":"Circles","qty":"2","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XBlueXSquares","length":"0","width":"0","height":"0","color":"Blue","design":"Squares","qty":"2","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"}]}]}
+ERROR - 2018-12-14 08:47:25 --> {"success":true,"success_message":"Order 00005 Submitted successfully."}
+ERROR - 2018-12-14 08:51:08 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 08:52:41 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 08:54:39 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"order remark","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"XtdqLBFcSXbFlBsy","dueDays":"","dueAmount":"","orderPipline":"2","orderStatus":"pending","orderInProduction":"0","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"0","newCustomer":[],"orderItems":[{"itemName":"Burnout Velvet","itemRef":"PRO-QY0Z-00003","qty":12,"saleUOM":"Roll","saleConvQty":"1","saleConvLength":"50","baseUOM":"Meter","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"","variants":[{"item_variant_id":"0X0X0XBlueXCircles","length":"0","width":"0","height":"0","color":"Blue","design":"Circles","qty":"1","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XBlueXSquares","length":"0","width":"0","height":"0","color":"Blue","design":"Squares","qty":"2","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XRedXCircles","length":"0","width":"0","height":"0","color":"Red","design":"Circles","qty":"3","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"},{"item_variant_id":"0X0X0XRedXSquares","length":"0","width":"0","height":"0","color":"Red","design":"Squares","qty":"6","price":"350.00","minPrice":"300.00","blockPercentage":"0","isCustomize":"0"}]}]}
+ERROR - 2018-12-14 08:54:39 --> {"success":true,"success_message":"Order 00001 Submitted successfully."}
+ERROR - 2018-12-14 09:08:30 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-14 09:18:33 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-14 09:22:53 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-14 09:22:53 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-12-14 09:23:00 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-14 09:23:00 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-12-14 09:27:38 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-14 09:27:38 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-12-14 09:27:47 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-14 09:27:47 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-12-14 09:28:15 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-14 09:28:15 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-12-14 09:36:42 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-14 09:45:15 --> Severity: error --> Exception: syntax error, unexpected '%' /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-14 11:04:32 --> 404 Page Not Found: Img/favicon.png

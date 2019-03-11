@@ -1,0 +1,24 @@
+ERROR - 2018-09-04 10:28:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 10:40:41 --> Severity: error --> Exception: syntax error, unexpected ':' /var/www/html/watervale/application/controllers/CustomerController.php 492
+ERROR - 2018-09-04 10:41:24 --> Severity: error --> Exception: syntax error, unexpected ':' /var/www/html/watervale/application/controllers/CustomerController.php 492
+ERROR - 2018-09-04 11:10:18 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 11:50:03 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 11:53:02 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 11:55:34 --> Severity: Notice --> Use of undefined constant result - assumed 'result' /var/www/html/watervale/application/models/CustomerModel.php 239
+ERROR - 2018-09-04 12:00:05 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 12:07:55 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 12:11:05 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 12:11:34 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 12:12:01 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 12:12:21 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 12:27:34 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 12:54:52 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 12:54:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-04 12:54:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-04 12:54:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-04 12:54:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-04 12:54:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-04 13:02:33 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 13:12:42 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-04 13:26:41 --> Severity: Notice --> Undefined variable: loadingSheetvalue /var/www/html/watervale/application/views/orders/dispatch/toLoad.php 63
+ERROR - 2018-09-04 13:26:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/orders/dispatch/toLoad.php 63

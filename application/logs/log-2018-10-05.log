@@ -1,0 +1,154 @@
+ERROR - 2018-10-05 00:16:39 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 00:38:17 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 00:42:06 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 01:41:46 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 01:47:59 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 01:52:14 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 01:55:50 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 02:28:59 --> 404 Page Not Found: Assets/css
+ERROR - 2018-10-05 02:28:59 --> 404 Page Not Found: Assets/css
+ERROR - 2018-10-05 02:29:00 --> 404 Page Not Found: Assets/css
+ERROR - 2018-10-05 02:29:00 --> 404 Page Not Found: Assets/css
+ERROR - 2018-10-05 02:29:52 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 02:33:40 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 02:41:35 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 02:53:43 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 02:54:13 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 03:01:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 03:05:46 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 03:10:05 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 03:10:09 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 03:38:38 --> 404 Page Not Found: Assets/css
+ERROR - 2018-10-05 03:38:38 --> 404 Page Not Found: Assets/css
+ERROR - 2018-10-05 03:38:55 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 03:40:52 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 03:42:35 --> {"orderRef":"","userRef":"JjgDalfOlUQWpSeL","customerRef":"nEe4QSCyqi0OhIdm","orderRemarks":"","deliveryMethodRef":"sZQPcuDBQFE83wsu","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"Zcn7Oa1ha2XWD83c","dueDays":"","dueAmount":"","orderPipline":"2","orderStatus":"MAN","orderInProduction":"0","managerApprove":"1","approvalType":"management","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"Zoe","itemRef":"PRO-7OZ1-00016","itemPrice":"35","qty":11,"priceChanged":"","transportCost":"","transportCostChanged":"20","height":"","width":"","length":"","saleUOM":"Cartons","saleConvQty":"1","saleConvLength":"0","baseUOM":"meters","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","variants":[{"color":"0","design":"0","length":"0","width":"0","height":"0","qty":"2","isCustomize":"0"},{"color":"0","design":"2","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"},{"color":"1","design":"0","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"},{"color":"1","design":"2","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"},{"color":"2","design":"0","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"},{"color":"2","design":"2","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"},{"color":"3","design":"0","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"},{"color":"3","design":"2","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"},{"color":"4","design":"0","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"},{"color":"4","design":"2","length":"0","width":"0","height":"0","qty":"1","isCustomize":"0"}]}]}
+ERROR - 2018-10-05 03:42:35 --> {"success":true,"success_message":"Order Submitted successfully Order No00062"}
+ERROR - 2018-10-05 03:43:11 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 03:47:53 --> {"orderRef":"","userRef":"JjgDalfOlUQWpSeL","customerRef":"SZ9T2suP6QTVXdOU","orderRemarks":"","deliveryMethodRef":"3vCbs18qoMa4j7k0","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"2iCbflXYQAJNTl5D","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"1","approvalType":"management","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"Test","itemRef":"PRO-UDZ8-00006","itemPrice":"66","qty":57,"priceChanged":"","transportCost":"0","transportCostChanged":"","height":"","width":"","length":"","saleUOM":"Cartons","saleConvQty":"1","saleConvLength":"0","baseUOM":"Roll","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","variants":[{"color":"23","design":"25","length":"1","width":"2","height":"3","qty":"2","isCustomize":"0"},{"color":"1","design":"25","length":"1","width":"2","height":"3","qty":"5","isCustomize":"0"},{"color":"23","design":"25","length":"435","width":"435","height":"435435","qty":"8","isCustomize":"0"},{"color":"1","design":"25","length":"435","width":"435","height":"435435","qty":"8","isCustomize":"0"},{"color":"1","design":"26","length":"435","width":"435","height":"435435","qty":"8","isCustomize":"0"},{"color":"23","design":"26","length":"1","width":"2","height":"3","qty":"8","isCustomize":"0"},{"color":"1","design":"26","length":"1","width":"2","height":"3","qty":"8","isCustomize":"0"},{"color":"23","design":"26","length":"435","width":"435","height":"435435","qty":"8","isCustomize":"0"},{"length":"12","width":"12","height":"13","qty":"2","isCustomize":"1"}]},{"itemName":"Sdfg","itemRef":"PRO-WY2A-00010","itemPrice":"57","qty":135,"priceChanged":"","transportCost":"","transportCostChanged":"10","height":"","width":"","length":"","saleUOM":"456","saleConvQty":"1","saleConvLength":"0","baseUOM":"rolls2","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","variants":[{"color":"1","design":"1","length":"1","width":"1","height":"1","qty":"121","isCustomize":"0"},{"length":"1","width":"2","height":"2","qty":"1","isCustomize":"1"},{"length":"1","width":"2","height":"2","qty":"2","isCustomize":"1"},{"length":"1","width":"2","height":"2","qty":"2","isCustomize":"1"},{"length":"1","width":"2","height":"3","qty":"3","isCustomize":"1"},{"length":"2","width":"5","height":"5","qty":"6","isCustomize":"1"}]},{"itemName":"Infant Bed","itemRef":"PRO-VLTS-00004","itemPrice":"67","qty":30,"priceChanged":"","transportCost":"","transportCostChanged":"26","height":"","width":"","length":"","saleUOM":"kgs","saleConvQty":"1","saleConvLength":"0","baseUOM":"meters","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","variants":[{"color":"blue","design":"rectangle","length":"4","width":"5","height":"6","qty":"1","isCustomize":"0"},{"color":"blue","design":"square","length":"4","width":"5","height":"6","qty":"1","isCustomize":"0"},{"color":"red","design":"rectangle","length":"4","width":"5","height":"6","qty":"2","isCustomize":"0"},{"color":"red","design":"square","length":"4","width":"5","height":"6","qty":"3","isCustomize":"0"},{"color":"blue","design":"rectangle","length":"5","width":"6","height":"7","qty":"2","isCustomize":"0"},{"color":"blue","design":"square","length":"5","width":"6","height":"7","qty":"5","isCustomize":"0"},{"color":"red","design":"rectangle","length":"5","width":"6","height":"7","qty":"8","isCustomize":"0"},{"color":"red","design":"square","length":"5","width":"6","height":"7","qty":"8","isCustomize":"0"}]}]}
+ERROR - 2018-10-05 03:47:53 --> {"success":true,"success_message":"Order Submitted successfully Order No00063"}
+ERROR - 2018-10-05 03:48:18 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-10-05 03:53:59 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 03:55:55 --> {"orderRef":"","userRef":"JjgDalfOlUQWpSeL","customerRef":"k1fZi8SC6LJuaXoc","orderRemarks":"","deliveryMethodRef":"3vCbs18qoMa4j7k0","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"Zcn7Oa1ha2XWD83c","dueDays":"","dueAmount":"","orderPipline":"2","orderStatus":"MAN","orderInProduction":"0","managerApprove":"1","approvalType":"management","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"Qwerr1","itemRef":"PRO-HX0E-00015","itemPrice":"34","qty":42,"priceChanged":"","transportCost":"","transportCostChanged":"20","height":"","width":"","length":"","saleUOM":"Cartons","saleConvQty":"1","saleConvLength":"0","baseUOM":"kgs","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","variants":[{"color":"1","design":"a","length":"00","width":"00","height":"00","qty":"2","isCustomize":"0"},{"color":"1","design":"b","length":"00","width":"00","height":"00","qty":"2","isCustomize":"0"},{"color":"1","design":"d","length":"00","width":"00","height":"00","qty":"1","isCustomize":"0"},{"color":"1","design":"e","length":"00","width":"00","height":"00","qty":"1","isCustomize":"0"},{"color":"1","design":"f","length":"00","width":"00","height":"00","qty":"2","isCustomize":"0"},{"color":"2","design":"a","length":"00","width":"00","height":"00","qty":"2","isCustomize":"0"},{"color":"2","design":"b","length":"00","width":"00","height":"00","qty":"5","isCustomize":"0"},{"color":"2","design":"d","length":"00","width":"00","height":"00","qty":"5","isCustomize":"0"},{"color":"2","design":"e","length":"00","width":"00","height":"00","qty":"5","isCustomize":"0"},{"color":"2","design":"f","length":"00","width":"00","height":"00","qty":"7","isCustomize":"0"},{"color":"3","design":"a","length":"00","width":"00","height":"00","qty":"8","isCustomize":"0"},{"color":"3","design":"b","length":"00","width":"00","height":"00","qty":"1","isCustomize":"0"},{"color":"3","design":"d","length":"00","width":"00","height":"00","qty":"1","isCustomize":"0"}]}]}
+ERROR - 2018-10-05 03:55:55 --> {"success":true,"success_message":"Order Submitted successfully Order No00064"}
+ERROR - 2018-10-05 03:56:28 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 03:58:02 --> 404 Page Not Found: Assets/css
+ERROR - 2018-10-05 04:02:37 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 04:04:09 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 04:11:39 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-10-05 05:07:14 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:14:50 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 05:17:44 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:17:48 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:22:08 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:26:02 --> 404 Page Not Found: View-customer/img
+ERROR - 2018-10-05 05:26:14 --> 404 Page Not Found: Update-customer/img
+ERROR - 2018-10-05 05:27:21 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:27:45 --> {"orderRef":"","userRef":"JjgDalfOlUQWpSeL","customerRef":"lLdHaw6Ab2p096CK","orderRemarks":"","deliveryMethodRef":"3vCbs18qoMa4j7k0","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"2iCbflXYQAJNTl5D","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"1","approvalType":"management","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"Qwer","itemRef":"PRO-7O2D-00022","itemPrice":"78","qty":9,"priceChanged":"","transportCost":"","transportCostChanged":"20","height":"","width":"","length":"","saleUOM":"456","saleConvQty":"1","saleConvLength":"0","baseUOM":"test434343","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","variants":[{"color":"jj","design":"jt","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"},{"color":"jj","design":"tjt","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"},{"color":"jj","design":"jj","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"},{"color":"jt","design":"jt","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"},{"color":"jt","design":"tjt","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"},{"color":"jt","design":"jj","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"},{"color":"jjt","design":"jt","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"},{"color":"jjt","design":"tjt","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"},{"color":"jjt","design":"jj","length":"8787","width":"5456","height":"4784","qty":"1","isCustomize":"0"}]}]}
+ERROR - 2018-10-05 05:27:45 --> {"success":true,"success_message":"Order Submitted successfully Order No00065"}
+ERROR - 2018-10-05 05:29:03 --> {"orderRef":"","userRef":"JjgDalfOlUQWpSeL","customerRef":"pn7aCSj1RatGcESw","orderRemarks":"","deliveryMethodRef":"KWxCMji0HbsJlymh","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"Zcn7Oa1ha2XWD83c","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"1","approvalType":"management","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"School Chairs","itemRef":"PRO-DWKM-00003","itemPrice":"79","qty":8,"priceChanged":"","transportCost":"","transportCostChanged":"10","height":"","width":"","length":"","saleUOM":"Cartons","saleConvQty":"1","saleConvLength":"0","baseUOM":"Boxes","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","variants":[{"color":"gold","design":"square","length":"8","width":"9","height":"10","qty":"2","isCustomize":"0"},{"color":"tes","design":"square","length":"8","width":"9","height":"10","qty":"2","isCustomize":"0"},{"color":"gold","design":"square","length":"7","width":"8","height":"9","qty":"2","isCustomize":"0"},{"color":"tes","design":"square","length":"7","width":"8","height":"9","qty":"2","isCustomize":"0"}]},{"itemName":"Infant Bed","itemRef":"PRO-VLTS-00004","itemPrice":"67","qty":8,"priceChanged":"","transportCost":"","transportCostChanged":"10","height":"","width":"","length":"","saleUOM":"kgs","saleConvQty":"1","saleConvLength":"0","baseUOM":"meters","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","variants":[{"color":"blue","design":"rectangle","length":"4","width":"5","height":"6","qty":"1","isCustomize":"0"},{"color":"blue","design":"square","length":"4","width":"5","height":"6","qty":"1","isCustomize":"0"},{"color":"red","design":"rectangle","length":"4","width":"5","height":"6","qty":"1","isCustomize":"0"},{"color":"red","design":"square","length":"4","width":"5","height":"6","qty":"1","isCustomize":"0"},{"color":"blue","design":"rectangle","length":"5","width":"6","height":"7","qty":"1","isCustomize":"0"},{"color":"blue","design":"square","length":"5","width":"6","height":"7","qty":"1","isCustomize":"0"},{"color":"red","design":"rectangle","length":"5","width":"6","height":"7","qty":"1","isCustomize":"0"},{"color":"red","design":"square","length":"5","width":"6","height":"7","qty":"1","isCustomize":"0"}]}]}
+ERROR - 2018-10-05 05:29:03 --> {"success":true,"success_message":"Order Submitted successfully Order No00066"}
+ERROR - 2018-10-05 05:33:22 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:39:39 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:40:22 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 05:40:26 --> Severity: Warning --> fopen(/tmp/ci_session05100e8e24bc708fe3f6acc8e1f59d623b5be7d4): failed to open stream: Disk quota exceeded /home/onewayit/public_html/watervale/system/libraries/Session/drivers/Session_files_driver.php 172
+ERROR - 2018-10-05 05:40:26 --> Session: Unable to open file '/tmp/ci_session05100e8e24bc708fe3f6acc8e1f59d623b5be7d4'.
+ERROR - 2018-10-05 05:40:26 --> Severity: error --> Exception: Failed to create(read) session ID: user (path: /tmp) /home/onewayit/public_html/watervale/system/libraries/Session/Session.php 718
+ERROR - 2018-10-05 05:40:33 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:43:09 --> Severity: Warning --> ZipArchive::close(): Failure to create temporary file: Disk quota exceeded /home/onewayit/public_html/watervale/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php 374
+ERROR - 2018-10-05 05:43:09 --> Severity: error --> Exception: Could not close zip file /home/onewayit/public_html/watervale/assets/excel/Laodingsheet.Xlsx. /home/onewayit/public_html/watervale/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php 375
+ERROR - 2018-10-05 05:43:24 --> Severity: Warning --> ZipArchive::close(): Failure to create temporary file: Disk quota exceeded /home/onewayit/public_html/watervale/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php 374
+ERROR - 2018-10-05 05:43:24 --> Severity: error --> Exception: Could not close zip file /home/onewayit/public_html/watervale/assets/excel/Laodingsheet.Xlsx. /home/onewayit/public_html/watervale/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php 375
+ERROR - 2018-10-05 05:43:26 --> Severity: Warning --> ZipArchive::close(): Failure to create temporary file: Disk quota exceeded /home/onewayit/public_html/watervale/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php 374
+ERROR - 2018-10-05 05:43:26 --> Severity: error --> Exception: Could not close zip file /home/onewayit/public_html/watervale/assets/excel/Laodingsheet.Xlsx. /home/onewayit/public_html/watervale/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Xlsx.php 375
+ERROR - 2018-10-05 05:45:38 --> Severity: Warning --> fopen(/tmp/ci_session17a49f8555fe9367811ac38daabf300809335234): failed to open stream: Disk quota exceeded /home/onewayit/public_html/watervale/system/libraries/Session/drivers/Session_files_driver.php 172
+ERROR - 2018-10-05 05:45:38 --> Session: Unable to open file '/tmp/ci_session17a49f8555fe9367811ac38daabf300809335234'.
+ERROR - 2018-10-05 05:45:38 --> Severity: error --> Exception: Failed to create(read) session ID: user (path: /tmp) /home/onewayit/public_html/watervale/system/libraries/Session/Session.php 718
+ERROR - 2018-10-05 05:51:45 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:55:09 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 05:55:16 --> Severity: Warning --> fopen(/tmp/ci_session20cbab8aa53b40a1dd0ccb772e892466ad4f8e4c): failed to open stream: Disk quota exceeded /home/onewayit/public_html/watervale/system/libraries/Session/drivers/Session_files_driver.php 172
+ERROR - 2018-10-05 05:55:16 --> Session: Unable to open file '/tmp/ci_session20cbab8aa53b40a1dd0ccb772e892466ad4f8e4c'.
+ERROR - 2018-10-05 05:55:16 --> Severity: error --> Exception: Failed to create(read) session ID: user (path: /tmp) /home/onewayit/public_html/watervale/system/libraries/Session/Session.php 718
+ERROR - 2018-10-05 06:09:44 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 06:13:28 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 06:25:58 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 06:33:31 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 06:34:22 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 06:47:15 --> Severity: Warning --> fopen(/tmp/ci_sessionc613265291950396c170928c4aab004196be7743): failed to open stream: Disk quota exceeded /home/onewayit/public_html/watervale/system/libraries/Session/drivers/Session_files_driver.php 172
+ERROR - 2018-10-05 06:47:15 --> Session: Unable to open file '/tmp/ci_sessionc613265291950396c170928c4aab004196be7743'.
+ERROR - 2018-10-05 06:47:15 --> Severity: error --> Exception: Failed to create(read) session ID: user (path: /tmp) /home/onewayit/public_html/watervale/system/libraries/Session/Session.php 718
+ERROR - 2018-10-05 06:52:16 --> Severity: Warning --> fopen(/tmp/ci_session873fd4b2a00bb8b0b0172917a0653392abc472bc): failed to open stream: Disk quota exceeded /home/onewayit/public_html/watervale/system/libraries/Session/drivers/Session_files_driver.php 172
+ERROR - 2018-10-05 06:52:16 --> Session: Unable to open file '/tmp/ci_session873fd4b2a00bb8b0b0172917a0653392abc472bc'.
+ERROR - 2018-10-05 06:52:16 --> Severity: error --> Exception: Failed to create(read) session ID: user (path: /tmp) /home/onewayit/public_html/watervale/system/libraries/Session/Session.php 718
+ERROR - 2018-10-05 06:58:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:10:23 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:12:44 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:18:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:18:26 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:20:53 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:22:31 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:22:36 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:23:15 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:25:17 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:25:34 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:25:37 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:25:39 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:25:40 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:25:42 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:25:44 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:25:49 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:26:24 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:26:43 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:30:04 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:32:02 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:38:22 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:47:50 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 07:59:27 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 07:59:27 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 08:12:23 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-10-05 08:47:57 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:13:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:14:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:14:20 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:14:24 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:14:27 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:14:31 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:14:51 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:29:53 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:33:31 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:33:34 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:35:37 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:37:36 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:37:42 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:38:08 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:38:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:38:14 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 09:59:26 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:00:46 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:00:48 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:01:05 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:01:08 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:02:00 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:10:18 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:12:45 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:13:51 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:23:13 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:23:15 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:23:36 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:24:15 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:24:24 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:24:25 --> Severity: Warning --> Division by zero /home/onewayit/public_html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-10-05 10:24:27 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:24:30 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:25:18 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:25:21 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:25:25 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:25:26 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:25:48 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:25:57 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:27:10 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:27:58 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:28:07 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:32:29 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:42:52 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-10-05 10:42:57 --> Severity: Warning --> Division by zero /home/onewayit/public_html/watervale/application/views/dashboard/statistics.php 21

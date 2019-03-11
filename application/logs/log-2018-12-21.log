@@ -1,0 +1,8 @@
+ERROR - 2018-12-21 04:15:50 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-21 04:17:35 --> 404 Page Not Found: Update-user/img
+ERROR - 2018-12-21 04:22:45 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-21 04:46:20 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-21 04:53:58 --> Severity: Warning --> Creating default object from empty value /var/www/html/watervale_live/application/models/AppLogin.php 194
+ERROR - 2018-12-21 04:54:29 --> Severity: Warning --> Creating default object from empty value /var/www/html/watervale_live/application/models/AppLogin.php 194
+ERROR - 2018-12-21 05:08:13 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/watervale_live/application/models/AppLogin.php 213
+ERROR - 2018-12-21 05:09:11 --> Severity: error --> Exception: syntax error, unexpected ';' /var/www/html/watervale_live/application/models/AppLogin.php 213

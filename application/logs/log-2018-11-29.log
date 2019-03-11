@@ -1,0 +1,6 @@
+ERROR - 2018-11-29 04:31:25 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-29 04:33:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-29 04:33:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-29 04:33:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-29 04:33:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-29 09:04:20 --> 404 Page Not Found: Img/favicon.png

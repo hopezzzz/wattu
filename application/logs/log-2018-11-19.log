@@ -1,0 +1,194 @@
+ERROR - 2018-11-19 05:04:36 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 05:08:58 --> Severity: error --> Exception: syntax error, unexpected 'endif' (T_ENDIF) /var/www/html/watervale_live/application/views/orders/production/index.php 240
+ERROR - 2018-11-19 05:09:26 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 05:10:53 --> Severity: error --> Exception: syntax error, unexpected 'endif' (T_ENDIF) /var/www/html/watervale_live/application/views/orders/production/index.php 238
+ERROR - 2018-11-19 05:11:10 --> Severity: error --> Exception: syntax error, unexpected 'endif' (T_ENDIF) /var/www/html/watervale_live/application/views/orders/production/index.php 239
+ERROR - 2018-11-19 05:11:40 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 05:11:48 --> Severity: Notice --> Undefined variable: i /var/www/html/watervale_live/application/views/orders/production/index.php 202
+ERROR - 2018-11-19 05:11:48 --> Severity: Notice --> Undefined variable: i /var/www/html/watervale_live/application/views/orders/production/index.php 204
+ERROR - 2018-11-19 05:11:48 --> Severity: Notice --> Undefined index:  /var/www/html/watervale_live/application/views/orders/production/index.php 204
+ERROR - 2018-11-19 05:11:48 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/orders/production/index.php 207
+ERROR - 2018-11-19 05:11:48 --> Severity: Notice --> Undefined variable: i /var/www/html/watervale_live/application/views/orders/production/index.php 202
+ERROR - 2018-11-19 05:11:54 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 05:12:35 --> Severity: Notice --> Undefined variable: i /var/www/html/watervale_live/application/views/orders/production/index.php 221
+ERROR - 2018-11-19 05:12:35 --> Severity: Notice --> Undefined variable: i /var/www/html/watervale_live/application/views/orders/production/index.php 227
+ERROR - 2018-11-19 05:12:37 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 05:13:18 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 05:36:52 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:37:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 05:41:44 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 06:17:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-19 06:17:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/categories/index.php 63
+ERROR - 2018-11-19 06:17:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 06:22:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 06:29:42 --> 404 Page Not Found: Update-customer/img
+ERROR - 2018-11-19 06:51:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 07:17:26 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-M1NK-00001","itemPrice":"110","qty":20,"priceChanged":"","transportCost":"0","transportCostChanged":"","height":"","width":"","length":"","saleUOM":"TUoM","saleConvQty":"1","saleConvLength":"0","baseUOM":"TUoM","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","variants":[{"color":"Black","design":"Square","length":"11","width":"12","height":"13","qty":"8","isCustomize":"0"},{"color":"Blue","design":"Square","length":"11","width":"12","height":"13","qty":"6","isCustomize":"0"},{"color":"Black","design":"Square","length":"21","width":"22","height":"23","qty":"4","isCustomize":"0"},{"color":"Blue","design":"Square","length":"21","width":"22","height":"23","qty":"2","isCustomize":"0"}]}]}
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:17:26 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:17:26 --> {"success":true,"success_message":"Order Submitted successfully Order No00001"}
+ERROR - 2018-11-19 07:17:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/html/watervale_live/system/core/Exceptions.php:271) /var/www/html/watervale_live/system/core/Common.php 570
+ERROR - 2018-11-19 07:17:30 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-M1NK-00001","itemPrice":"110","qty":20,"priceChanged":"","transportCost":"0","transportCostChanged":"","height":"","width":"","length":"","saleUOM":"TUoM","saleConvQty":"1","saleConvLength":"0","baseUOM":"TUoM","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","variants":[{"color":"Black","design":"Square","length":"11","width":"12","height":"13","qty":"8","isCustomize":"0"},{"color":"Blue","design":"Square","length":"11","width":"12","height":"13","qty":"6","isCustomize":"0"},{"color":"Black","design":"Square","length":"21","width":"22","height":"23","qty":"4","isCustomize":"0"},{"color":"Blue","design":"Square","length":"21","width":"22","height":"23","qty":"2","isCustomize":"0"}]}]}
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:17:30 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:17:30 --> {"success":true,"success_message":"Order Submitted successfully Order No00002"}
+ERROR - 2018-11-19 07:17:30 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/html/watervale_live/system/core/Exceptions.php:271) /var/www/html/watervale_live/system/core/Common.php 570
+ERROR - 2018-11-19 07:18:43 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-M1NK-00001","itemPrice":"110","qty":20,"priceChanged":"","transportCost":"0","transportCostChanged":"","height":"","width":"","length":"","saleUOM":"TUoM","saleConvQty":"1","saleConvLength":"0","baseUOM":"TUoM","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","variants":[{"color":"Black","design":"Square","length":"11","width":"12","height":"13","qty":"8","isCustomize":"0"},{"color":"Blue","design":"Square","length":"11","width":"12","height":"13","qty":"6","isCustomize":"0"},{"color":"Black","design":"Square","length":"21","width":"22","height":"23","qty":"4","isCustomize":"0"},{"color":"Blue","design":"Square","length":"21","width":"22","height":"23","qty":"2","isCustomize":"0"}]}]}
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: price /var/www/html/watervale_live/application/models/OrderModel.php 275
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discountType /var/www/html/watervale_live/application/models/OrderModel.php 278
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 285
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 291
+ERROR - 2018-11-19 07:18:43 --> Severity: Notice --> Undefined index: discount /var/www/html/watervale_live/application/models/OrderModel.php 292
+ERROR - 2018-11-19 07:18:43 --> {"success":true,"success_message":"Order Submitted successfully Order No00003"}
+ERROR - 2018-11-19 07:18:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /var/www/html/watervale_live/system/core/Exceptions.php:271) /var/www/html/watervale_live/system/core/Common.php 570
+ERROR - 2018-11-19 07:20:07 --> {"orderRef":"","userRef":"qOoAcdisbsO91v64","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"32.0","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-M1NK-00001","qty":2,"saleUOM":"SaleTUoM","saleConvQty":"1","saleConvLength":"0","baseUOM":"TUoM","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","transportCost":"0","transportCostChanged":"","variants":[{"item_variant_id":"49","length":"11","width":"12","height":"13","color":"Black","design":"Square","qty":"1","price":"120","minPrice":"100","blockPercentage":"40","blockType":"TBlock Type","discountType":"2","discount":"20","isCustomize":"0"},{"item_variant_id":"50","length":"11","width":"12","height":"13","color":"Blue","design":"Square","qty":"1","price":"120","minPrice":"100","blockPercentage":"40","blockType":"TBlock Type","discountType":"1","discount":"10","isCustomize":"0"}]}]}
+ERROR - 2018-11-19 07:20:07 --> {"success":true,"success_message":"Order Submitted successfully Order No00004"}
+ERROR - 2018-11-19 07:49:57 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"0","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-M1NK-00001","qty":14,"saleUOM":"SaleTUoM","saleConvQty":"1","saleConvLength":"0","baseUOM":"TUoM","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","transportCost":"0","transportCostChanged":"","variants":[{"item_variant_id":"69","length":"11","width":"12","height":"13","color":"Black","design":"Square","qty":"2","price":"120","minPrice":"100","blockPercentage":"50","blockType":"TBlock Type","discountType":"1","discount":"0","isCustomize":"0"},{"item_variant_id":"70","length":"11","width":"12","height":"13","color":"Blue","design":"Square","qty":"4","price":"120","minPrice":"100","blockPercentage":"50","blockType":"TBlock Type","discountType":"1","discount":"0","isCustomize":"0"},{"item_variant_id":"71","length":"21","width":"22","height":"23","color":"Black","design":"Square","qty":"2","price":"200","minPrice":"150","blockPercentage":"50","blockType":"TBlock Type","discountType":"1","discount":"0","isCustomize":"0"},{"item_variant_id":"72","length":"21","width":"22","height":"23","color":"Blue","design":"Square","qty":"6","price":"120","minPrice":"100","blockPercentage":"50","blockType":"TBlock Type","discountType":"1","discount":"0","isCustomize":"0"}]}]}
+ERROR - 2018-11-19 07:49:57 --> {"success":true,"success_message":"Order Submitted successfully Order No00005"}
+ERROR - 2018-11-19 07:59:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 08:00:11 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-19 09:00:34 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:06:30 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:06:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:06:54 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:06:55 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:07:21 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:07:21 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:07:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:07:25 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:08:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:08:26 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:15:59 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:18:38 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:18:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:19:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:19:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:19:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:19:52 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:24:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:24:58 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:25:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:25:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:25:43 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:26:04 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:18 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:18 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:18 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:27:30 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:30:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:38:20 --> 404 Page Not Found: App/index
+ERROR - 2018-11-19 09:38:55 --> 404 Page Not Found: App/index
+ERROR - 2018-11-19 09:38:57 --> 404 Page Not Found: App/index
+ERROR - 2018-11-19 09:38:57 --> 404 Page Not Found: App/index
+ERROR - 2018-11-19 09:38:57 --> 404 Page Not Found: App/index
+ERROR - 2018-11-19 09:39:22 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:41:07 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:42:14 --> 404 Page Not Found: Update-customer/img
+ERROR - 2018-11-19 09:44:05 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:44:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:45:22 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 09:45:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:50:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:52:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:52:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:54:11 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:55:18 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:55:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:55:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:55:22 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:59:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:59:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:59:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:59:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:59:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:59:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 09:59:55 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 10:10:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 10:10:18 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 10:10:25 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-19 10:13:12 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-19 10:14:16 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-11-19 10:16:50 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 10:33:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 10:55:19 --> {"orderRef":"","userRef":"qOoAcdisbsO91v64","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"2","orderStatus":"MAN","orderInProduction":"0","managerApprove":"1","approvalType":"management","preAuthorization":"","orderDiscount":"110.0","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-M1NK-00001","qty":2,"saleUOM":"SaleTUoM","saleConvQty":"1","saleConvLength":"0","baseUOM":"TUoM","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","transportCost":"","transportCostChanged":"10.0","variants":[{"item_variant_id":"137","length":"11","width":"12","height":"13","color":"Black","design":"Square","qty":"1","price":"100","minPrice":"100","blockPercentage":"20","blockType":"TBlock Type","discountType":"1","discount":"10","isCustomize":"0"},{"item_variant_id":"138","length":"11","width":"12","height":"13","color":"Blue","design":"Square","qty":"1","price":"200","minPrice":"100","blockPercentage":"20","blockType":"TBlock Type","discountType":"2","discount":"100","isCustomize":"0"}]}]}
+ERROR - 2018-11-19 10:55:19 --> {"success":true,"success_message":"Order 00006 Submitted successfully."}
+ERROR - 2018-11-19 10:57:49 --> {"orderRef":"","userRef":"qOoAcdisbsO91v64","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"2","orderStatus":"MAN","orderInProduction":"0","managerApprove":"1","approvalType":"management","preAuthorization":"","orderDiscount":"110.0","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-M1NK-00001","qty":2,"saleUOM":"SaleTUoM","saleConvQty":"1","saleConvLength":"0","baseUOM":"TUoM","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"0","transportCost":"","transportCostChanged":"10.0","variants":[{"item_variant_id":"137","length":"11","width":"12","height":"13","color":"Black","design":"Square","qty":"1","price":"100","minPrice":"100","blockPercentage":"20","blockType":"TBlock Type","discountType":"1","discount":"10","isCustomize":"0"},{"item_variant_id":"138","length":"11","width":"12","height":"13","color":"Blue","design":"Square","qty":"1","price":"200","minPrice":"100","blockPercentage":"20","blockType":"TBlock Type","discountType":"2","discount":"100","isCustomize":"0"}]}]}
+ERROR - 2018-11-19 10:57:49 --> {"success":true,"success_message":"Order 00007 Submitted successfully."}
+ERROR - 2018-11-19 11:27:16 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 11:27:20 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-19 11:27:34 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 11:48:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-11-19 11:49:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94

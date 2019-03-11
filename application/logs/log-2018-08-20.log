@@ -1,0 +1,60 @@
+ERROR - 2018-08-20 10:28:43 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-20 12:16:16 --> 404 Page Not Found: Export-customer-follow-up/21-08-2018
+ERROR - 2018-08-20 12:19:57 --> Query error: Column 'modifiedDate' in where clause is ambiguous - Invalid query: SELECT `dispatchNo`, `ws_orders`.`orderNo`, `ws_orders`.`orderRef`, `sheetRef`, `city`, `state`, `invoiceNo`, `customerName`, `receivedStatus`, `errorStatus`, `returnStatus`, `ws_orders`.`addedOn` as `orderDate`, `ws_dispatched_orders`.`addedOn` as `dispatchDate`, (select methodName from ws_deliveryMethod where ws_deliveryMethod.deliveryMethodRef = ws_orders.deliveryMethodRef limit 0, 1) as deliveryMethod
+FROM `ws_dispatched_orders`
+JOIN `ws_orders` ON `ws_orders`.`orderRef` = `ws_dispatched_orders`.`orderRef`
+LEFT JOIN `ws_orderDeliveryAddress` ON `ws_orderDeliveryAddress`.`orderRef` = `ws_orders`.`orderRef`
+WHERE `isModifyState` = 2
+AND `orderStatus` != "cancelled"
+AND `modifiedDate` >= '21-08-2018'
+AND `modifiedDate` <= '28-08-2018'
+GROUP BY `dispatchNo`
+ORDER BY `dispatchNo` DESC
+ERROR - 2018-08-20 12:20:09 --> Severity: Notice --> Undefined variable: exportCustomersFollowup /var/www/html/watervale/application/controllers/CustomerController.php 590
+ERROR - 2018-08-20 12:30:38 --> Severity: Notice --> Undefined variable: exportCustomersFollowup /var/www/html/watervale/application/controllers/CustomerController.php 590
+ERROR - 2018-08-20 13:24:37 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/html/watervale/application/views/orders/dispatch/index.php 76
+ERROR - 2018-08-20 13:24:38 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/html/watervale/application/views/orders/dispatch/index.php 76
+ERROR - 2018-08-20 13:24:39 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/html/watervale/application/views/orders/dispatch/index.php 76
+ERROR - 2018-08-20 13:24:45 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/html/watervale/application/views/orders/dispatch/index.php 76
+ERROR - 2018-08-20 13:24:46 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/html/watervale/application/views/orders/dispatch/index.php 76
+ERROR - 2018-08-20 13:25:02 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/html/watervale/application/views/orders/dispatch/index.php 76
+ERROR - 2018-08-20 13:25:02 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/html/watervale/application/views/orders/dispatch/index.php 76
+ERROR - 2018-08-20 13:25:03 --> Severity: error --> Exception: Cannot use object of type stdClass as array /var/www/html/watervale/application/views/orders/dispatch/index.php 76
+ERROR - 2018-08-20 13:25:43 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:25:43 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/watervale/application/views/orders/dispatch/index.php 73
+ERROR - 2018-08-20 13:26:48 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-08-20 13:31:57 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-20 13:33:32 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-08-20 14:33:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:33:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:33:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:33:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:33:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:58:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:58:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:58:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:58:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 14:58:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:20:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:20:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:20:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:20:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:20:37 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:43:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:43:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:43:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:43:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 15:43:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 16:57:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 16:57:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 16:57:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 16:57:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-08-20 16:57:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92

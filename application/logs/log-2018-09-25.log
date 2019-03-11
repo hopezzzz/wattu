@@ -1,0 +1,248 @@
+ERROR - 2018-09-25 10:10:24 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-25 10:27:37 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-25 10:41:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 10:41:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 10:41:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 10:41:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 10:41:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:08:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:08:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:08:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:08:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:08:29 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:20:28 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-25 11:30:43 --> Severity: Notice --> Undefined variable: data /var/www/html/watervale/application/controllers/SettingController.php 620
+ERROR - 2018-09-25 11:32:36 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-25 11:56:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:56:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:56:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:56:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 11:56:12 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:23:27 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-25 12:26:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:26:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:26:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:26:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:26:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:27:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:27:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:27:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:27:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:27:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:27:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-25 12:27:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-25 12:27:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-25 12:27:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-25 12:27:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-25 12:29:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:29:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:29:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:29:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:29:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:38:11 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-25 12:39:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:39:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:23 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:24 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 12:42:33 --> Severity: Notice --> Undefined property: stdClass::$orderNo /var/www/html/watervale/application/controllers/Welcome.php 147
+ERROR - 2018-09-25 12:42:33 --> Severity: Notice --> Undefined property: stdClass::$orderNo /var/www/html/watervale/application/controllers/Welcome.php 159
+ERROR - 2018-09-25 12:42:34 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 172
+ERROR - 2018-09-25 12:42:34 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 173
+ERROR - 2018-09-25 12:51:20 --> Severity: error --> Exception: syntax error, unexpected 'return' (T_RETURN), expecting ';' /var/www/html/watervale/application/helpers/globalfunctions_helper.php 841
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$orderNo /var/www/html/watervale/application/controllers/Welcome.php 107
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined variable: notificationMessage /var/www/html/watervale/application/controllers/Welcome.php 110
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$orderNo /var/www/html/watervale/application/controllers/Welcome.php 119
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$businessName /var/www/html/watervale/application/controllers/Welcome.php 131
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined property: stdClass::$customerName /var/www/html/watervale/application/controllers/Welcome.php 132
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:02:49 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined variable: notificationMessage /var/www/html/watervale/application/controllers/Welcome.php 110
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index: status /var/www/html/watervale/application/controllers/Welcome.php 135
+ERROR - 2018-09-25 13:05:30 --> Severity: Notice --> Undefined index:  /var/www/html/watervale/application/helpers/globalfunctions_helper.php 753
+ERROR - 2018-09-25 13:09:03 --> Severity: Notice --> Array to string conversion /var/www/html/watervale/system/database/DB_driver.php 1477
+ERROR - 2018-09-25 13:09:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1) VALUES (Array)' at line 1 - Invalid query: INSERT INTO `ws_notification` (1) VALUES (Array)
+ERROR - 2018-09-25 13:09:50 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-25 13:19:18 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/controllers/OrderController.php 372
+ERROR - 2018-09-25 13:19:30 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/controllers/OrderController.php 372
+ERROR - 2018-09-25 14:49:43 --> Query error: Unknown column 'variant_id' in 'where clause' - Invalid query: SELECT SUM(qtyLoaded) as lastDispatchedQty, `qtyLoaded` as `lastDispatched`
+FROM `ws_dispatched_Items`
+INNER JOIN `ws_dispatched_orders` ON `ws_dispatched_orders`.`dispatchNo` = `dispatchRef`
+WHERE   (
+`orderRefId` = '0wPMZdhp7Ai9DhwR'
+AND `itemRefId` = 'PRO-BEJD-00024'
+AND `variant_id` = '349'
+ )
+AND `isModifyState` = 2
+ORDER BY `ws_dispatched_Items`.`id` DESC
+ LIMIT 1
+ERROR - 2018-09-25 14:49:55 --> Query error: Unknown column 'variant_id' in 'where clause' - Invalid query: SELECT (qtyLoaded) toDispatchQty
+FROM `ws_dispatched_Items`
+INNER JOIN `ws_dispatched_orders` ON `ws_dispatched_orders`.`dispatchNo` = `dispatchRef`
+WHERE   (
+`orderRefId` = '0wPMZdhp7Ai9DhwR'
+AND `itemRefId` = 'PRO-BEJD-00024'
+AND `variant_id` = '349'
+ )
+AND `isModifyState` = 1
+ORDER BY `ws_dispatched_Items`.`id` DESC
+ LIMIT 1
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 15:28:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale/application/views/customerFollowup/followupOrders.php 110
+ERROR - 2018-09-25 16:24:18 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 16:24:18 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 16:24:18 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-25 16:32:05 --> Severity: error --> Exception: syntax error, unexpected 'array' (T_ARRAY), expecting ',' or ')' /var/www/html/watervale/application/models/CommonModel.php 182
+ERROR - 2018-09-25 16:32:12 --> Severity: error --> Exception: syntax error, unexpected 'array' (T_ARRAY), expecting ',' or ')' /var/www/html/watervale/application/models/CommonModel.php 182
+ERROR - 2018-09-25 16:32:40 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE) /var/www/html/watervale/application/models/CommonModel.php 183
+ERROR - 2018-09-25 16:58:51 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-25 17:34:00 --> 404 Page Not Found: Img/favicon.png

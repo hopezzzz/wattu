@@ -1,0 +1,354 @@
+ERROR - 2018-09-28 10:03:27 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 10:07:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 10:07:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 10:07:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 10:07:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 10:07:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 10:21:10 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 10:41:02 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 10:41:14 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 10:43:54 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 10:44:08 --> Severity: error --> Exception: [] operator not supported for strings /var/www/html/watervale/application/views/orders/orderDetails.php 207
+ERROR - 2018-09-28 10:44:14 --> Severity: error --> Exception: [] operator not supported for strings /var/www/html/watervale/application/views/orders/orderDetails.php 207
+ERROR - 2018-09-28 10:44:27 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 10:56:36 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 11:16:26 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 11:19:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 11:19:31 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 11:21:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 11:24:23 --> Severity: error --> Exception: syntax error, unexpected '$variants' (T_VARIABLE) /var/www/html/watervale/application/views/orders/production/index.php 91
+ERROR - 2018-09-28 11:57:42 --> Query error: Unknown column '2017-02-05' in 'where clause' - Invalid query: SELECT COUNT(ws_orders.orderRef) as totalOrder, (SELECT SUM(orderPrice) from ws_orders where orderStatus!= "cancelled" AND ws_orders.`modifiedDate` >= "2017-02-05" AND ws_orders.`modifiedDate` <= "2018-10-05" limit 0, 1) as grossSales, (SELECT COUNT(ws_orders.id) from ws_orders where (orderStatus != "cancelled") AND (managerApprove = 1) AND ws_orders.`modifiedDate` >= "2017-02-05" AND ws_orders.`modifiedDate` <= "2018-10-05" LIMIT 0, 1) as managerApprovedOrders, (SELECT COUNT(ws_orders.id) from ws_orders where (orderStatus = "reAssign") AND modifiedDate  <= curdate() - interval 2 day  LIMIT 0, 1) as reAssignedOrders, (SELECT COUNT(ws_orders.id) from ws_orders where (orderStatus = "cancelled") AND ws_orders.`modifiedDate` >= "2017-02-05" AND ws_orders.`modifiedDate` <= "2018-10-05" LIMIT 0, 1) as cancelledOrders, (SELECT COUNT(ws_orders.id) from ws_orders where (orderStatus != "cancelled") AND (orderPipline = 2)  AND ws_orders.orderRef NOT IN
+      (SELECT ws_orders.orderRef from ws_orders WHERE orderPipline = 4 AND ws_orders.`modifiedDate` >= "2017-02-05 00:00:00" AND ws_orders.`modifiedDate` <= "2017-02-06 12:00:00" )
+      LIMIT 0, 1) as approvalQueue, (SELECT COUNT(ws_orders.id) from ws_orders  WHERE orderPipline = 4 AND ws_orders.`modifiedDate` >= "2017-02-05 00:00:00" AND ws_orders.`modifiedDate` <= "2017-02-06 12:00:00" LIMIT 0, 1) as aprovedOrders
+FROM `ws_orders`
+WHERE `ws_orders`.`addedOn` >= `2017-02-05`
+AND `ws_orders`.`addedOn` <= `2018-10-05`
+ERROR - 2018-09-28 12:08:54 --> Severity: Notice --> Undefined variable: nextWorkingDay /var/www/html/watervale/application/models/OrderModel.php 905
+ERROR - 2018-09-28 12:09:17 --> Severity: Notice --> Undefined variable: nextWorkingDay /var/www/html/watervale/application/models/OrderModel.php 905
+ERROR - 2018-09-28 12:09:27 --> Severity: Notice --> Undefined variable: nextWorkingDay /var/www/html/watervale/application/models/OrderModel.php 905
+ERROR - 2018-09-28 12:18:48 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 12:27:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:27:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:27:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:27:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:27:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:25 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:31:54 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:32:06 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:07 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:08 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:09 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:10 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:11 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:11 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:11 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:11 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:11 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:13 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:32:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/itemlistajax.php 30
+ERROR - 2018-09-28 12:36:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:36:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:36:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:36:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:36:14 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:37:02 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 12:43:49 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 12:51:29 --> Severity: Notice --> Undefined index: HTTP_REFERER /var/www/html/watervale/application/controllers/OrderController.php 243
+ERROR - 2018-09-28 12:51:29 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 12:54:13 --> Query error: Unknown column 'ws_dispatched_Items.variant_id' in 'group statement' - Invalid query: SELECT `ws_dispatched_Items`.*, (select color from ws_products where ws_dispatched_Items.itemRefId = productRef limit 0, 1 ) as color, (select design from ws_products where ws_dispatched_Items.itemRefId = productRef limit 0, 1 ) as design, (select blockType from ws_products where ws_dispatched_Items.itemRefId = productRef limit 0, 1 ) as blockType, `ws_dispatched_orders`.`sheetRef`, `itemReason`, (select saleUOM from ws_orderItems where ws_orderItems.orderRef = orderRefId and ws_orderItems.itemRefId = ws_dispatched_Items.itemRefId limit 0, 1) as saleUOM, (select baseUOM from ws_orderItems where ws_orderItems.orderRef = orderRefId and ws_orderItems.itemRefId = ws_dispatched_Items.itemRefId limit 0, 1) as baseUOM, (select qty from ws_orderItems where ws_orderItems.orderRef = orderRefId and ws_orderItems.itemRefId = ws_dispatched_Items.itemRefId limit 0, 1) as orderQty
+FROM `ws_dispatched_orders`
+INNER JOIN `ws_dispatched_Items` ON `ws_dispatched_Items`.`dispatchRef` = `ws_dispatched_orders`.`dispatchNo`
+WHERE `ws_dispatched_Items`.`orderRefId` = '5lrYaIdU8uazR4OM'
+AND `ws_dispatched_orders`.`sheetRef` = 'IzeVQ24JU4pFGWX0'
+AND `ws_dispatched_orders`.`isModifyState` = 2
+GROUP BY `ws_dispatched_Items`.`variant_id`
+ERROR - 2018-09-28 12:56:54 --> Severity: Warning --> Division by zero /var/www/html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-09-28 12:56:56 --> Severity: Warning --> Division by zero /var/www/html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-09-28 12:56:58 --> Severity: Warning --> Division by zero /var/www/html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-09-28 12:58:09 --> Severity: Warning --> Division by zero /var/www/html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-09-28 12:58:10 --> Severity: Warning --> Division by zero /var/www/html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-09-28 12:58:10 --> Severity: Warning --> Division by zero /var/www/html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-09-28 12:58:12 --> Severity: Warning --> Division by zero /var/www/html/watervale/application/views/dashboard/statistics.php 21
+ERROR - 2018-09-28 12:58:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 12:58:19 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:04:06 --> Severity: Notice --> Undefined variable: lengh /var/www/html/watervale/application/helpers/globalfunctions_helper.php 1684
+ERROR - 2018-09-28 13:21:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 13:21:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 13:21:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 13:21:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 13:21:57 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 13:26:05 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 15:29:59 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 15:39:53 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 15:55:43 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-09-28 16:00:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:01 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:00:36 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:03:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:03:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:03:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:03:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:03:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:19 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:04:50 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:13:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:12 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 16:17:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:17 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:17:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:18:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:18:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:18:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:18:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:18:27 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:19:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:19:41 --> Severity: Notice --> Undefined variable: data /var/www/html/watervale/application/controllers/ItemController.php 759
+ERROR - 2018-09-28 16:20:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:20:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:20:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:20:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:20:35 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:21:24 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /var/www/html/watervale/application/controllers/ItemController.php 760
+ERROR - 2018-09-28 16:21:54 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /var/www/html/watervale/application/controllers/ItemController.php 759
+ERROR - 2018-09-28 16:21:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:21:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:21:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:21:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:21:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:21:57 --> Severity: 4096 --> Object of class CI_Loader could not be converted to string /var/www/html/watervale/application/controllers/ItemController.php 759
+ERROR - 2018-09-28 16:22:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:22:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:22:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:22:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:22:33 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:23:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:23:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:23:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:23:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:23:48 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:43 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 16:24:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:08 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 17:15:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:47 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:53 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:15:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:15:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:15:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:15:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:15:56 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:33:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:33:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:33:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:33:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:33:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/categories/index.php 63
+ERROR - 2018-09-28 17:33:40 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 17:33:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:33:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:33:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:33:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:33:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:39:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:39:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:39:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:39:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:39:49 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:44:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:44:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:44:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:44:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 17:44:32 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 08:40:44 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 08:40:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 08:59:59 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 09:01:08 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:08 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:08 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:08 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:08 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:11 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:11 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:11 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:11 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:01:11 --> Severity: Notice --> Undefined property: stdClass::$userName /home/onewayit/public_html/watervale/application/views/items/index.php 92
+ERROR - 2018-09-28 09:10:26 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 09:12:18 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 09:13:20 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-09-28 09:26:05 --> 404 Page Not Found: Img/favicon.png

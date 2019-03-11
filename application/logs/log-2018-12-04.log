@@ -1,0 +1,942 @@
+ERROR - 2018-12-04 04:49:07 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 05:53:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 06:30:11 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 08:58:33 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 10:28:14 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"1","approvalType":"management","preAuthorization":"","orderDiscount":"55045.0","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-TY09-00001","qty":30,"saleUOM":"ROLL","saleConvQty":"1","saleConvLength":"40","baseUOM":"METER","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","transportCost":"","transportCostChanged":"180","discountType":"1","discount":"25","variants":[{"item_variant_id":"","length":"11","width":"22","height":"33","color":"W","design":"D","qty":"10","price":"150.15","minPrice":"100.16","blockPercentage":"30.99","blockType":"BlType1","isCustomize":"0"},{"item_variant_id":"","length":"11","width":"22","height":"33","color":"B","design":"D","qty":"20","price":"200.15","minPrice":"100.16","blockPercentage":"35.99","blockType":"BlType1","isCustomize":"0"}]}]}
+ERROR - 2018-12-04 10:28:14 --> {"success":true,"success_message":"Order 00001 Submitted successfully."}
+ERROR - 2018-12-04 11:06:56 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-04 11:11:11 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 11:20:46 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 12:57:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 12:57:50 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-04 12:58:15 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:18:00 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:32:35 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:32:46 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-04 13:32:46 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-12-04 13:32:54 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 21
+ERROR - 2018-12-04 13:32:54 --> Severity: Warning --> Division by zero /var/www/html/watervale_live/application/views/dashboard/statistics.php 29
+ERROR - 2018-12-04 13:33:13 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-04 13:34:09 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-04 13:34:17 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:35:52 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:37:16 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:38:53 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:39:01 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:42:45 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:45:05 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"0","approvalType":" ","preAuthorization":"","orderDiscount":"36634.2","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-TY09-00001","qty":57,"saleUOM":"ROLL","saleConvQty":"1","saleConvLength":"40","baseUOM":"METER","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","transportCost":"0","transportCostChanged":"","discountType":"1","discount":"10","variants":[{"item_variant_id":"","length":"11","width":"22","height":"33","color":"W","design":"D","qty":"45","price":"150.15","minPrice":"100.16","blockPercentage":"30.99","blockType":"BlType1","isCustomize":"0"},{"item_variant_id":"","length":"11","width":"22","height":"33","color":"B","design":"D","qty":"12","price":"200.15","minPrice":"100.16","blockPercentage":"35.99","blockType":"BlType1","isCustomize":"0"}]}]}
+ERROR - 2018-12-04 13:45:05 --> {"success":true,"success_message":"Order 00002 Submitted successfully."}
+ERROR - 2018-12-04 13:47:05 --> {"orderRef":"","userRef":"XUe7oDvLiJlGTFqu","customerRef":"dXMJ1FSHdfYwMI5Z","orderRemarks":"","deliveryMethodRef":"4k6GrpPR1ZPOeuwR","newDeliveryMethod":"","newAreaCode":"","paymentMethodRef":"GLQ7xW9duKY7c6sU","dueDays":"","dueAmount":"","orderPipline":"3","orderStatus":"queued","orderInProduction":"1","managerApprove":"1","approvalType":"management","preAuthorization":"","orderDiscount":"62452.2","newCustomer":[],"orderItems":[{"itemName":"Item1","itemRef":"PRO-TY09-00001","qty":29,"saleUOM":"ROLL","saleConvQty":"1","saleConvLength":"40","baseUOM":"METER","baseConvQty":"1","baseConvLength":"0","productionOnDemand":"1","transportCost":"","transportCostChanged":"100","discountType":"1","discount":"30","variants":[{"item_variant_id":"","length":"11","width":"22","height":"33","color":"W","design":"D","qty":"12","price":"150.15","minPrice":"100.16","blockPercentage":"30.99","blockType":"BlType1","isCustomize":"0"},{"item_variant_id":"","length":"11","width":"22","height":"33","color":"B","design":"D","qty":"17","price":"200.15","minPrice":"100.16","blockPercentage":"35.99","blockType":"BlType1","isCustomize":"0"}]}]}
+ERROR - 2018-12-04 13:47:05 --> {"success":true,"success_message":"Order 00003 Submitted successfully."}
+ERROR - 2018-12-04 13:50:41 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:33 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:56:55 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 213
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 214
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:58:49 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 227
+ERROR - 2018-12-04 13:58:52 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 13:59:41 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 13:59:43 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Undefined property: stdClass::$variant_id /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 164
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Undefined property: stdClass::$variant_id /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 164
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Undefined property: stdClass::$variant_id /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 164
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 215
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:26 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 229
+ERROR - 2018-12-04 14:00:34 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 218
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 218
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 218
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 218
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 216
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 217
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 218
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 218
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Undefined variable: variants /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-12-04 14:00:53 --> Severity: Notice --> Trying to get property of non-object /var/www/html/watervale_live/application/views/customerFollowup/followupOrders.php 230
+ERROR - 2018-12-04 14:00:56 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 14:01:41 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 14:05:09 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:06:16 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:14:44 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X22X33XWXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"11X22X33XBXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:27:38 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X22X33XWXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"11X22X33XBXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:27:38 --> {"success":true,"success_message":"Order 00004 Submitted successfully."}
+ERROR - 2018-12-04 14:27:46 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-04 14:30:41 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X22X33XWXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"11X22X33XBXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:30:41 --> Query error: Unknown column 'orderNo' in 'field list' - Invalid query: INSERT INTO `ws_orderItems` (`orderNo`, `salesRef`, `customerRef`, `approvalType`, `orderRemarks`, `deliveryMethodRef`, `paymentMethodRef`, `dueDays`, `dueAmount`, `managerApprove`, `preAuthorization`, `orderPipline`, `orderStatus`, `orderInProduction`, `status`, `addedOn`, `modifiedDate`, `orderRef`, `addressLine`, `customerName`, `businessName`, `customerPhone`, `city`, `state`, `country`, `modifiedOn`, `orderItemRef`, `price`, `transportCharge`, `itemRefId`, `itemName`, `saleUOM`, `saleConvQty`, `saleConvLength`, `baseUOM`, `baseConvQty`, `baseConvLength`, `productionOnDemand`, `uomType`, `discountType`, `discount`, `qty`) VALUES ('00005', 'JjgDalfOlUQWpSeL', 'dXMJ1FSHdfYwMI5Z', 'management', '', '4k6GrpPR1ZPOeuwR', 'GLQ7xW9duKY7c6sU', '', '', '1', '', '3', 'queued', '1', 1, '2018-12-04 14:30:41', '2018-12-04 14:30:41', 'm8MycAbiy6TuKJLV', '123 sector 5', 'Cust1', 'BCust', '9999999999', 'Nyamira', 'Nyanza', 'Kenya', '2018-12-04', 'U9OiDlotmFeabuU6', 350.3, '100', 'PRO-TY09-00001', 'Item1', 'ROLL', '1', '40', 'METER', '1', '0', '1', '2', '1', '10', 30)
+ERROR - 2018-12-04 14:31:02 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X22X33XWXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"11X22X33XBXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:31:02 --> {"success":true,"success_message":"Order 00005 Submitted successfully."}
+ERROR - 2018-12-04 14:38:23 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X22X33XWXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"11X22X33XBXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:38:23 --> {"success":true,"success_message":"Order 00005 Submitted successfully."}
+ERROR - 2018-12-04 14:39:04 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X22X33XWXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"11X22X33XBXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:39:04 --> {"success":true,"success_message":"Order 00005 Submitted successfully."}
+ERROR - 2018-12-04 14:40:04 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X22X33XWXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"11X22X33XBXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:40:04 --> {"success":true,"success_message":"Order 00005 Submitted successfully."}
+ERROR - 2018-12-04 14:43:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:43:05 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:39 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:40 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:40 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:41 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:44 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:47:47 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 14:49:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:49:51 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:49:54 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 14:51:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:51:20 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:51:23 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 14:53:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:53:00 --> Severity: Notice --> Undefined property: stdClass::$userName /var/www/html/watervale_live/application/views/items/index.php 94
+ERROR - 2018-12-04 14:53:03 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-12-04 14:54:59 --> {  
+   "orderRef":"",
+   "userRef":"JjgDalfOlUQWpSeL",
+   "customerRef":"dXMJ1FSHdfYwMI5Z",
+   "orderRemarks":"",
+   "deliveryMethodRef":"4k6GrpPR1ZPOeuwR",
+   "newDeliveryMethod":"",
+   "newAreaCode":"",
+   "paymentMethodRef":"GLQ7xW9duKY7c6sU",
+   "dueDays":"",
+   "dueAmount":"",
+   "orderPipline":"3",
+   "orderStatus":"queued",
+   "orderInProduction":"1",
+   "managerApprove":"1",
+   "approvalType":"management",
+   "preAuthorization":"",
+   "orderDiscount":"20018.0",
+   "newCustomer":[  
+
+   ],
+   "orderItems":[  
+      {  
+         "itemName":"Item1",
+         "itemRef":"PRO-TY09-00001",
+         "qty":30,
+         "saleUOM":"ROLL",
+         "saleConvQty":"1",
+         "saleConvLength":"40",
+         "baseUOM":"METER",
+         "baseConvQty":"1",
+         "baseConvLength":"0",
+         "productionOnDemand":"1",
+         "transportCost":"",
+         "transportCostChanged":"100",
+         "discountType":"1",
+         "discount":"10",
+         "variants":[  
+            {  
+               "item_variant_id":"11X22X33XWXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"W",
+               "design":"D",
+               "qty":"20",
+               "price":"150.15",
+               "minPrice":"100.16",
+               "blockPercentage":"30.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            },
+            {  
+               "item_variant_id":"11X22X33XBXD",
+               "length":"11",
+               "width":"22",
+               "height":"33",
+               "color":"B",
+               "design":"D",
+               "qty":"10",
+               "price":"200.15",
+               "minPrice":"100.16",
+               "blockPercentage":"35.99",
+               "blockType":"BlType1",
+               "isCustomize":"0"
+            }
+         ]
+      }
+   ]
+}
+
+ERROR - 2018-12-04 14:54:59 --> {"success":true,"success_message":"Order 00006 Submitted successfully."}
+ERROR - 2018-12-04 14:55:38 --> 404 Page Not Found: Order-details/img
+ERROR - 2018-12-04 14:57:12 --> 404 Page Not Found: Img/favicon.png
